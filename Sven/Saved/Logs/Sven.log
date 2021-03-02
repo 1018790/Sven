@@ -1466,3 +1466,70 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.02-04.46.35:218][834]AssetCheck: New page: Asset Save: multiple assets
 [2021.03.02-04.46.35:218][834]LogContentValidation: Display: Validating World /Game/Sven/Maps/Sven_LevelScene.Sven_LevelScene
 [2021.03.02-04.46.35:218][834]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Sven/Maps/Sven_LevelScene_BuiltData.Sven_LevelScene_BuiltData
+[2021.03.02-04.48.05:786][441]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.02-04.48.05:795][441]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.02-04.48.05:795][441]PIE: New page: PIE session: Sven_LevelScene (3 Mar 2021, 2:48:05 am)
+[2021.03.02-04.48.05:821][441]LogPlayLevel: Creating play world package: /Game/Sven/Maps/UEDPIE_0_Sven_LevelScene
+[2021.03.02-04.48.05:831][441]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010473s)
+[2021.03.02-04.48.05:833][441]LogAIModule: Creating AISystem for world Sven_LevelScene
+[2021.03.02-04.48.05:833][441]LogPlayLevel: PIE: World Init took: (0.001375s)
+[2021.03.02-04.48.05:833][441]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sven/Maps/Sven_LevelScene.Sven_LevelScene to /Game/Sven/Maps/UEDPIE_0_Sven_LevelScene.Sven_LevelScene (0.012026s)
+[2021.03.02-04.48.05:838][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.03.02-04.48.05:840][441]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.03.02-04.48.05:840][441]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.02-04.48.05:840][441]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.02-04.48.05:840][441]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.02-04.48.05:840][441]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.02-04.48.05:840][441]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.02-04.48.05:840][441]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.02-04.48.05:840][441]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.02-04.48.05:840][441]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.02-04.48.05:840][441]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.02-04.48.05:840][441]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.02-04.48.05:848][441]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.02-04.48.05:848][441]LogAudioMixer: Display: 1: FrontRight
+[2021.03.02-04.48.05:862][441]LogAudioMixer: Display: Using Audio Device Speakers (2- USB Audio Device)
+[2021.03.02-04.48.05:862][441]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.02-04.48.05:862][441]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.02-04.48.05:862][441]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.02-04.48.05:863][441]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.02-04.48.05:863][441]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.02-04.48.05:863][441]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.02-04.48.05:880][441]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.02-04.48.05:880][441]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.02-04.48.05:880][441]LogInit: FAudioDevice initialized.
+[2021.03.02-04.48.05:880][441]LogAudio: Display: Audio Device (ID: 9) registered with world 'Sven_LevelScene'.
+[2021.03.02-04.48.05:886][441]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.02-04.48.05:888][441]LogWorld: Bringing World /Game/Sven/Maps/UEDPIE_0_Sven_LevelScene.Sven_LevelScene up for play (max tick rate 0) at 2021.03.02-15.48.05
+[2021.03.02-04.48.05:888][441]LogWorld: Bringing up level for play took: 0.000816
+[2021.03.02-04.48.05:888][441]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.03.02-04.48.05:891][441]PIE: Server logged in
+[2021.03.02-04.48.05:892][441]PIE: Play in editor total start time 0.102 seconds.
+[2021.03.02-04.49.21:806][540]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.02-04.49.21:806][540]LogWorld: BeginTearingDown for /Game/Sven/Maps/UEDPIE_0_Sven_LevelScene
+[2021.03.02-04.49.21:806][540]LogWorld: UWorld::CleanupWorld for Sven_LevelScene, bSessionEnded=true, bCleanupResources=true
+[2021.03.02-04.49.21:806][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.02-04.49.21:813][540]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.02-04.49.21:824][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.02-04.49.21:828][540]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.02-04.49.21:828][540]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.02-04.49.21:829][540]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.02-04.49.21:847][540]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.02-04.49.21:848][540]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.03.02-04.49.21:875][541]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.03.02-04.50.36:121][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sven/Maps/Sven_LevelScene" FILE="D:/Sven/Sven/Sven/Content/Sven/Maps/Sven_LevelScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.02-04.50.36:125][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.03.02-04.50.36:154][455]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/Sven_LevelScene3D8850E44A5D7343491215BD33B9D1CE.tmp' to 'D:/Sven/Sven/Sven/Content/Sven/Maps/Sven_LevelScene.umap'
+[2021.03.02-04.50.36:160][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sven/Maps/Sven_LevelScene_BuiltData" FILE="D:/Sven/Sven/Sven/Content/Sven/Maps/Sven_LevelScene_BuiltData.uasset" SILENT=true
+[2021.03.02-04.50.36:192][455]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/Sven_LevelScene_BuiltData32770B2F4682656C5EBC48A70F9EA929.tmp' to 'D:/Sven/Sven/Sven/Content/Sven/Maps/Sven_LevelScene_BuiltData.uasset'
+[2021.03.02-04.50.36:207][455]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.02-04.50.36:207][455]LogContentValidation: Display: Validating World /Game/Sven/Maps/Sven_LevelScene.Sven_LevelScene
+[2021.03.02-04.50.36:207][455]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Sven/Maps/Sven_LevelScene_BuiltData.Sven_LevelScene_BuiltData
+[2021.03.02-04.50.53:805][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sven/Maps/Sven_LevelScene" FILE="D:/Sven/Sven/Sven/Content/Sven/Maps/Sven_LevelScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.02-04.50.53:810][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.03.02-04.50.53:839][490]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/Sven_LevelScene8737BEBE41F956F502CA6A8D80E1C7D5.tmp' to 'D:/Sven/Sven/Sven/Content/Sven/Maps/Sven_LevelScene.umap'
+[2021.03.02-04.50.53:846][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sven/Maps/Sven_LevelScene_BuiltData" FILE="D:/Sven/Sven/Sven/Content/Sven/Maps/Sven_LevelScene_BuiltData.uasset" SILENT=true
+[2021.03.02-04.50.53:857][490]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/Sven_LevelScene_BuiltData1D81CFFA4D47D852E0BF3F921BA0AF77.tmp' to 'D:/Sven/Sven/Sven/Content/Sven/Maps/Sven_LevelScene_BuiltData.uasset'
+[2021.03.02-04.50.53:871][490]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.02-04.50.53:871][490]LogContentValidation: Display: Validating World /Game/Sven/Maps/Sven_LevelScene.Sven_LevelScene
+[2021.03.02-04.50.53:872][490]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Sven/Maps/Sven_LevelScene_BuiltData.Sven_LevelScene_BuiltData
