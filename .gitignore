@@ -72,3 +72,5 @@ Sven/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 Sven/DerivedDataCache/*
+Sven/Intermediate
+Sven/Saved
