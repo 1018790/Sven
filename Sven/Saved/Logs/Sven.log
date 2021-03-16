@@ -1708,3 +1708,1438 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.15-23.14.31:226][  4]LogSlate: Took 0.000712 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
 [2021.03.15-23.15.37:769][854]LogSlate: Window 'Message Log' being destroyed
 [2021.03.15-23.15.37:774][854]LogSlate: Window 'Message Log' being destroyed
+[2021.03.15-23.18.24:412][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.03.15-23.18.26:585][374]LogSlate: Window 'Save Content' being destroyed
+[2021.03.15-23.18.26:609][374]LogSlate: Took 0.000878 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.15-23.18.26:648][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sven/Maps/Sven_LevelScene" FILE="D:/Sven/Sven/Sven/Content/Sven/Maps/Sven_LevelScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.15-23.18.26:653][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.03.15-23.18.26:716][374]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/Sven_LevelSceneCCCEAB3448F06092972DF0B16E985DC0.tmp' to 'D:/Sven/Sven/Sven/Content/Sven/Maps/Sven_LevelScene.umap'
+[2021.03.15-23.18.26:723][374]LogFileHelpers: Saving map 'Sven_LevelScene' took 0.075
+[2021.03.15-23.18.26:723][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sven/Maps/Sven_LevelScene_BuiltData" FILE="D:/Sven/Sven/Sven/Content/Sven/Maps/Sven_LevelScene_BuiltData.uasset" SILENT=true
+[2021.03.15-23.18.26:740][374]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/Sven_LevelScene_BuiltData48065E3E4BCECA7468CC158B1AB46476.tmp' to 'D:/Sven/Sven/Sven/Content/Sven/Maps/Sven_LevelScene_BuiltData.uasset'
+[2021.03.15-23.18.26:774][374]LogLinker: Warning: [AssetLog] D:\Sven\Sven\Sven\Content\Sven\Alt_Maps\SvenAltScene.umap: Failed to load '/Game/Sven/Alt_Maps/SvenAltScene_BuiltData': Can't find file.
+[2021.03.15-23.18.26:774][374]LogLinker: Warning: [AssetLog] D:\Sven\Sven\Sven\Content\Sven\Alt_Maps\SvenAltScene.umap: Failed to load '/Game/Sven/Alt_Maps/SvenAltScene_BuiltData': Can't find file.
+[2021.03.15-23.18.26:836][374]LogLinker: Warning: [AssetLog] D:\Sven\Sven\Sven\Content\Sven\Alt_Maps\SvenAltScene.umap: Failed to load '/Game/Sven/Alt_Maps/SvenAltScene_BuiltData': Can't find file.
+[2021.03.15-23.18.26:872][374]LogLinker: Warning: [AssetLog] D:\Sven\Sven\Sven\Content\Sven\Alt_Maps\SvenAltScene.umap: Failed to load '/Game/Sven/Alt_Maps/SvenAltScene_BuiltData': Can't find file.
+[2021.03.15-23.18.26:872][374]LoadErrors: Failed to load /Game/Sven/Alt_Maps/SvenAltScene_BuiltData.SvenAltScene_BuiltData Referenced by PersistentLevel
+[2021.03.15-23.18.31:798][374]LogTexture: Display: Building textures: T_BS_PlantsAndGlassware_M (AutoDXT, 2048X2048)
+[2021.03.15-23.18.31:798][374]LogTexture: Display: Building textures: T_BS_DeskMicrophone_D (AutoDXT, 2048X2048)
+[2021.03.15-23.18.31:798][374]LogTexture: Display: Building textures: T_BS_Ground_R (AutoDXT, 2048X2048)
+[2021.03.15-23.18.31:798][374]LogTexture: Display: Building textures: T_BS_PalmPlant_N (BC5, 2048X2048)
+[2021.03.15-23.18.31:798][374]LogTexture: Display: Building textures: T_BS_PlantsAndGlassware_D (AutoDXT, 2048X2048)
+[2021.03.15-23.18.31:798][374]LogTexture: Display: Building textures: T_BS_Ground_D (AutoDXT, 2048X2048)
+[2021.03.15-23.18.31:798][374]LogTexture: Display: Building textures: T_BS_PalmPlant_D (AutoDXT, 2048X2048)
+[2021.03.15-23.18.31:798][374]LogTexture: Display: Building textures: T_BS_Ground_N (BC5, 2048X2048)
+[2021.03.15-23.18.31:798][374]LogTexture: Display: Building textures: T_BS_DeskMicrophone_ID (AutoDXT, 2048X2048)
+[2021.03.15-23.18.31:798][374]LogTexture: Display: Building textures: T_BS_DeskMicrophone_N (BC5, 2048X2048)
+[2021.03.15-23.18.31:798][374]LogTexture: Display: Building textures: T_BS_PlantsAndGlassware_ID (AutoDXT, 2048X2048)
+[2021.03.15-23.18.31:798][374]LogTexture: Display: Building textures: T_BS_PlantsAndGlassware_N (BC5, 2048X2048)
+[2021.03.15-23.18.31:798][374]LogTexture: Display: Building textures: T_BS_SmallPlant_N (BC5, 2048X2048)
+[2021.03.15-23.18.31:798][374]LogTexture: Display: Building textures: T_Classic_Commode_A (AutoDXT, 4096X4096)
+[2021.03.15-23.18.31:798][374]LogTexture: Display: Building textures: T_Classic_Commode_M_R_AO (AutoDXT, 4096X4096)
+[2021.03.15-23.18.31:798][374]LogTexture: Display: Building textures: T_BS_SmallPlant_R (AutoDXT, 2048X2048)
+[2021.03.15-23.18.31:798][374]LogTexture: Display: Building textures: T_BS_SmallPlant_D (AutoDXT, 2048X2048)
+[2021.03.15-23.18.31:798][374]LogTexture: Display: Building textures: T_BS_SmallPlant_Opacity (AutoDXT, 2048X2048)
+[2021.03.15-23.18.31:798][374]LogTexture: Display: Building textures: T_BirdsNestPlant_BC (AutoDXT, 4096X4096)
+[2021.03.15-23.18.31:798][374]LogTexture: Display: Building textures: T_Laptop_ORM (AutoDXT, 4096X4096)
+[2021.03.15-23.18.31:798][374]LogTexture: Display: Building textures: lamps_c (AutoDXT, 1024X1024)
+[2021.03.15-23.18.31:798][374]LogTexture: Display: Building textures: T_Laptop_N (BC5, 4096X4096)
+[2021.03.15-23.18.31:798][374]LogTexture: Display: Building textures: T_Laptop_BC (AutoDXT, 4096X4096)
+[2021.03.15-23.18.31:798][374]LogTexture: Display: Building textures: lamps_a (BC4, 512X512)
+[2021.03.15-23.18.31:798][374]LogTexture: Display: Building textures: SaturnLamp_c (AutoDXT, 256X256)
+[2021.03.15-23.18.31:798][374]LogTexture: Display: Building textures: FlyingSaucerToy_a_n (BC5, 256X256)
+[2021.03.15-23.18.31:799][374]LogTexture: Display: Building textures: FlyingSaucerToy_a_c (AutoDXT, 256X256)
+[2021.03.15-23.18.31:799][374]LogTexture: Display: Building textures: SaturnLamp_m (BC4, 256X256)
+[2021.03.15-23.18.31:799][374]LogTexture: Display: Building textures: SaturnLamp_n (BC5, 256X256)
+[2021.03.15-23.18.31:799][374]LogTexture: Display: Building textures: SaturnLamp_r (BC4, 256X256)
+[2021.03.15-23.18.31:799][374]LogTexture: Display: Building textures: RocketRadio_N (BC5, 512X512)
+[2021.03.15-23.18.31:799][374]LogTexture: Display: Building textures: RocketRadio_R (BC4, 256X256)
+[2021.03.15-23.18.31:799][374]LogTexture: Display: Building textures: T_BS_PalmPlant_R (AutoDXT, 2048X2048)
+[2021.03.15-23.18.33:429][374]LogTexture: Display: Building textures: T_Bed_Table_Mask (AutoDXT, 2048X2048)
+[2021.03.15-23.18.33:429][374]LogTexture: Display: Building textures: T_Modern_Bed_2_A (AutoDXT, 4096X4096)
+[2021.03.15-23.18.33:429][374]LogTexture: Display: Building textures: T_Modern_Bed_2_AO_R_M (AutoDXT, 4096X4096)
+[2021.03.15-23.18.33:429][374]LogTexture: Display: Building textures: T_Bathtub_N (BC5, 4096X4096)
+[2021.03.15-23.18.33:468][374]LogTexture: Display: Building textures: T_Bathtub_M (AutoDXT, 4096X4096)
+[2021.03.15-23.18.33:468][374]LogTexture: Display: Building textures: lamps_r (BC4, 512X512)
+[2021.03.15-23.18.33:468][374]LogTexture: Display: Building textures: T_BS_PalmPlant_Opacity (AutoDXT, 2048X2048)
+[2021.03.15-23.18.34:020][374]LogTexture: Display: Building textures: lamps_n (BC5, 1024X1024)
+[2021.03.15-23.18.34:020][374]LogTexture: Display: Building textures: CeilingLight_a_r (BC4, 512X512)
+[2021.03.15-23.18.34:020][374]LogTexture: Display: Building textures: CeilingLight_a_n (BC5, 512X512)
+[2021.03.15-23.18.34:020][374]LogTexture: Display: Building textures: CeilingLight_a_c (AutoDXT, 512X512)
+[2021.03.15-23.18.34:022][374]LogMaterial: Display: Missing cached shader map for material M_BS_Plant_Master, compiling. 
+[2021.03.15-23.18.34:080][374]LogStaticMesh: Building static mesh BirdMobileLight_a...
+[2021.03.15-23.18.34:148][374]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 46
+[2021.03.15-23.18.34:148][374]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 40
+[2021.03.15-23.18.34:148][374]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 34
+[2021.03.15-23.18.34:148][374]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 28
+[2021.03.15-23.18.34:148][374]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2021.03.15-23.18.34:148][374]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2021.03.15-23.18.34:148][374]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2021.03.15-23.18.34:149][374]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.03.15-23.18.34:149][374]LogStaticMesh: Built static mesh [0.07s] /Game/EF_MollyGreg/Meshes/BirdMobileLight_a.BirdMobileLight_a
+[2021.03.15-23.18.34:156][374]LogStaticMesh: Building static mesh RockitRadio...
+[2021.03.15-23.18.34:200][374]LogStaticMesh: Built static mesh [0.04s] /Game/EF_TwinsRoom/Meshes/RockitRadio.RockitRadio
+[2021.03.15-23.18.34:404][374]LogTexture: Display: Building textures: T_IndoorPlant_M (AutoDXT, 4096X4096)
+[2021.03.15-23.18.34:404][374]LogTexture: Display: Building textures: T_IndoorPlant_ORM (AutoDXT, 4096X4096)
+[2021.03.15-23.18.34:404][374]LogTexture: Display: Building textures: T_BS_Flowers_D (AutoDXT, 2048X2048)
+[2021.03.15-23.18.38:816][374]LogTexture: Display: Building textures: T_IndoorPlant_N (BC5, 4096X4096)
+[2021.03.15-23.18.38:816][374]LogTexture: Display: Building textures: WallPaperTwinsRoom_a_C (AutoDXT, 1024X1024)
+[2021.03.15-23.18.38:816][374]LogTexture: Display: Building textures: T_IndoorPlant_BC (AutoDXT, 4096X4096)
+[2021.03.15-23.18.38:816][374]LogTexture: Display: Building textures: T_BS_DeskFill_M (AutoDXT, 2048X2048)
+[2021.03.15-23.18.38:816][374]LogTexture: Display: Building textures: T_BS_DeskFill_Colors_01 (AutoDXT, 4X16)
+[2021.03.15-23.18.38:816][374]LogTexture: Display: Building textures: T_WhitePlaceHolder (AutoDXT, 128X128)
+[2021.03.15-23.18.38:816][374]LogTexture: Display: Building textures: T_NormalPlaceHolder (BC5, 128X128)
+[2021.03.15-23.18.38:816][374]LogTexture: Display: Building textures: T_Globe_ORM (AutoDXT, 4096X4096)
+[2021.03.15-23.18.38:816][374]LogTexture: Display: Building textures: T_Globe_N (BC5, 4096X4096)
+[2021.03.15-23.18.38:816][374]LogTexture: Display: Building textures: T_Globe_BC (AutoDXT, 4096X4096)
+[2021.03.15-23.18.38:816][374]LogTexture: Display: Building textures: T_BookCover_BC (AutoDXT, 4096X4096)
+[2021.03.15-23.18.39:039][374]LogTexture: Display: Building textures: T_BS_Flowers_N (BC5, 2048X2048)
+[2021.03.15-23.18.39:916][374]LogTexture: Display: Building textures: T_BS_Flowers_Opacity (AutoDXT, 2048X2048)
+[2021.03.15-23.18.40:515][374]LogTexture: Display: Building textures: T_Book_ORM (AutoDXT, 4096X4096)
+[2021.03.15-23.18.40:529][374]LogMaterial: Display: Missing cached shader map for material M_BS_MS_SimpleMaster, compiling. 
+[2021.03.15-23.18.46:437][374]LogTexture: Display: Building textures: T_Book_N (BC5, 4096X4096)
+[2021.03.15-23.18.46:437][374]LogTexture: Display: Building textures: T_Classic_Commode_N (BC5, 4096X4096)
+[2021.03.15-23.18.46:437][374]LogTexture: Display: Building textures: T_BirdsNestPlant_ORM (AutoDXT, 4096X4096)
+[2021.03.15-23.18.46:437][374]LogTexture: Display: Building textures: T_BirdsNestPlant_N (BC5, 4096X4096)
+[2021.03.15-23.18.46:437][374]LogTexture: Display: Building textures: T_Toilet_N (BC5, 4096X4096)
+[2021.03.15-23.18.46:437][374]LogTexture: Display: Building textures: T_Toilet_M (AutoDXT, 1024X1024)
+[2021.03.15-23.18.46:437][374]LogTexture: Display: Building textures: RocketRadio_M (BC4, 256X256)
+[2021.03.15-23.18.46:437][374]LogTexture: Display: Building textures: RocketRadio_C (AutoDXT, 512X512)
+[2021.03.15-23.18.46:437][374]LogTexture: Display: Building textures: T_Modern_Bed_2_N (BC5, 4096X4096)
+[2021.03.15-23.18.46:437][374]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 21
+[2021.03.15-23.18.46:437][374]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 18
+[2021.03.15-23.18.46:437][374]LogStaticMesh: Building static mesh CeilingLight_a...
+[2021.03.15-23.18.46:454][374]LogStaticMesh: Built static mesh [0.02s] /Game/EF_MollyGreg/Meshes/CeilingLight_a.CeilingLight_a
+[2021.03.15-23.18.46:456][374]LogStaticMesh: Building static mesh FlyingSaucerToy_a...
+[2021.03.15-23.18.46:487][374]LogStaticMesh: Built static mesh [0.03s] /Game/EF_TwinsRoom/Meshes/FlyingSaucerToy_a.FlyingSaucerToy_a
+[2021.03.15-23.18.46:489][374]LogStaticMesh: Building static mesh SM_BS_DeskPlants_02...
+[2021.03.15-23.18.46:517][374]LogStaticMesh: Built static mesh [0.03s] /Game/BroadcastStudio/Meshes/SM_BS_DeskPlants_02.SM_BS_DeskPlants_02
+[2021.03.15-23.18.46:522][374]LogMaterial: Display: Missing cached shader map for material M_Laptop, compiling. 
+[2021.03.15-23.18.47:686][374]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 36
+[2021.03.15-23.18.47:686][374]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 31
+[2021.03.15-23.18.47:686][374]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 27
+[2021.03.15-23.18.47:686][374]LogMaterial: Display: Missing cached shader map for material Master_Props_Masked_Mat, compiling. 
+[2021.03.15-23.18.47:848][374]LogStaticMesh: Building static mesh BubbleBottle_C...
+[2021.03.15-23.18.47:871][374]LogStaticMesh: Built static mesh [0.02s] /Game/EF_MollyGreg/Meshes/BubbleBottle_C.BubbleBottle_C
+[2021.03.15-23.18.47:877][374]LogStaticMesh: Building static mesh SaturnLamp...
+[2021.03.15-23.18.47:920][374]LogStaticMesh: Built static mesh [0.04s] /Game/EF_TwinsRoom/Meshes/SaturnLamp.SaturnLamp
+[2021.03.15-23.18.47:934][374]LogStaticMesh: Building static mesh HangingStar_a...
+[2021.03.15-23.18.47:956][374]LogStaticMesh: Built static mesh [0.02s] /Game/EF_TwinsRoom/Meshes/HangingStar_a.HangingStar_a
+[2021.03.15-23.18.47:995][374]LogStaticMesh: Building static mesh SM_Classic_Commode_Drawer_1...
+[2021.03.15-23.18.47:999][374]LogStaticMesh: Built static mesh [0.00s] /Game/FreeFurniturePack/Meshes/SM_Classic_Commode_Drawer_1.SM_Classic_Commode_Drawer_1
+[2021.03.15-23.18.48:016][374]LogStaticMesh: Building static mesh SM_Classic_Commode_Drawer_2...
+[2021.03.15-23.18.48:019][374]LogStaticMesh: Built static mesh [0.00s] /Game/FreeFurniturePack/Meshes/SM_Classic_Commode_Drawer_2.SM_Classic_Commode_Drawer_2
+[2021.03.15-23.18.48:065][374]LogStaticMesh: Building static mesh SM_Classic_Commode...
+[2021.03.15-23.18.48:096][374]LogStaticMesh: Built static mesh [0.03s] /Game/FreeFurniturePack/Meshes/SM_Classic_Commode.SM_Classic_Commode
+[2021.03.15-23.18.48:106][374]LogStaticMesh: Building static mesh NightLightBalloon_a...
+[2021.03.15-23.18.48:139][374]LogStaticMesh: Built static mesh [0.03s] /Game/EF_MollyGreg/Meshes/NightLightBalloon_a.NightLightBalloon_a
+[2021.03.15-23.18.48:358][374]LogStaticMesh: Building static mesh SM_Bathtub...
+[2021.03.15-23.18.48:695][374]LogStaticMesh: Built static mesh [0.34s] /Game/FreeFurniturePack/Meshes/SM_Bathtub.SM_Bathtub
+[2021.03.15-23.18.48:810][374]LogStaticMesh: Building static mesh SM_Bed_lamp_3...
+[2021.03.15-23.18.48:828][374]LogStaticMesh: Built static mesh [0.02s] /Game/FreeFurniturePack/Meshes/SM_Bed_lamp_3.SM_Bed_lamp_3
+[2021.03.15-23.18.48:872][374]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 270
+[2021.03.15-23.18.48:872][374]LogStaticMesh: Building static mesh SM_Bed_Table...
+[2021.03.15-23.18.48:888][374]LogStaticMesh: Built static mesh [0.02s] /Game/FreeFurniturePack/Meshes/SM_Bed_Table.SM_Bed_Table
+[2021.03.15-23.18.48:894][374]LogStaticMesh: Building static mesh SM_BirdsNestPlant...
+[2021.03.15-23.18.48:909][374]LogStaticMesh: Built static mesh [0.02s] /Game/OfficeScene/Meshes/SM_BirdsNestPlant.SM_BirdsNestPlant
+[2021.03.15-23.18.48:913][374]LogStaticMesh: Building static mesh SM_Book...
+[2021.03.15-23.18.48:927][374]LogStaticMesh: Built static mesh [0.01s] /Game/OfficeScene/Meshes/SM_Book.SM_Book
+[2021.03.15-23.18.48:928][374]LogStaticMesh: Building static mesh SM_BS_DeskPlants_01...
+[2021.03.15-23.18.49:002][374]LogStaticMesh: Built static mesh [0.07s] /Game/BroadcastStudio/Meshes/SM_BS_DeskPlants_01.SM_BS_DeskPlants_01
+[2021.03.15-23.18.49:185][374]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 260
+[2021.03.15-23.18.49:185][374]LogStaticMesh: Building static mesh SM_BS_DeskPlants_03...
+[2021.03.15-23.18.49:222][374]LogStaticMesh: Built static mesh [0.07s] /Game/BroadcastStudio/Meshes/SM_BS_DeskPlants_03.SM_BS_DeskPlants_03
+[2021.03.15-23.18.49:226][374]LogStaticMesh: Building static mesh SM_BS_LargePottedPlant_01...
+[2021.03.15-23.18.49:285][374]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 250
+[2021.03.15-23.18.49:285][374]LogStaticMesh: Built static mesh [0.06s] /Game/BroadcastStudio/Meshes/SM_BS_LargePottedPlant_01.SM_BS_LargePottedPlant_01
+[2021.03.15-23.18.49:294][374]LogStaticMesh: Building static mesh SM_Globe...
+[2021.03.15-23.18.49:313][374]LogStaticMesh: Built static mesh [0.02s] /Game/OfficeScene/Meshes/SM_Globe.SM_Globe
+[2021.03.15-23.18.49:317][374]LogStaticMesh: Building static mesh SM_IndoorPlant...
+[2021.03.15-23.18.49:465][374]LogStaticMesh: Built static mesh [0.15s] /Game/OfficeScene/Meshes/SM_IndoorPlant.SM_IndoorPlant
+[2021.03.15-23.18.49:564][374]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 240
+[2021.03.15-23.18.49:564][374]LogStaticMesh: Building static mesh SM_Modern_Bed_2...
+[2021.03.15-23.18.49:640][374]LogStaticMesh: Built static mesh [0.08s] /Game/FreeFurniturePack/Meshes/SM_Modern_Bed_2.SM_Modern_Bed_2
+[2021.03.15-23.18.49:714][374]LogStaticMesh: Building static mesh SM_Toilet...
+[2021.03.15-23.18.49:764][374]LogStaticMesh: Built static mesh [0.05s] /Game/FreeFurniturePack/Meshes/SM_Toilet.SM_Toilet
+[2021.03.15-23.18.49:777][374]LogStaticMesh: Building static mesh TwinsRoomSpaceLamp_a...
+[2021.03.15-23.18.49:802][374]LogStaticMesh: Built static mesh [0.03s] /Game/EF_TwinsRoom/Meshes/TwinsRoomSpaceLamp_a.TwinsRoomSpaceLamp_a
+[2021.03.15-23.18.49:807][374]LogMaterial: Display: Missing cached shader map for material M_Classic_Commode, compiling. 
+[2021.03.15-23.18.49:822][374]LogMaterial: Display: Missing cached shader map for material M_Modern_Bed_2, compiling. 
+[2021.03.15-23.18.49:837][374]LogMaterial: Display: Missing cached shader map for material M_Bathtub, compiling. 
+[2021.03.15-23.18.49:854][374]LogMaterial: Display: Missing cached shader map for material M_IndoorPlant, compiling. 
+[2021.03.15-23.18.49:870][374]LogMaterial: Display: Missing cached shader map for material M_BS_Master, compiling. 
+[2021.03.15-23.18.49:886][374]LogMaterial: Display: Missing cached shader map for material MM_Tables_and_Chairs, compiling. 
+[2021.03.15-23.18.49:903][374]LogMaterial: Display: Missing cached shader map for material M_Metall, compiling. 
+[2021.03.15-23.18.49:918][374]LogMaterial: Display: Missing cached shader map for material M_Bed_Lamp_Glowing_Part, compiling. 
+[2021.03.15-23.18.49:933][374]LogMaterial: Display: Missing cached shader map for material M_Bed_Lamp_3, compiling. 
+[2021.03.15-23.18.49:949][374]LogMaterial: Display: Missing cached shader map for material M_Toilet, compiling. 
+[2021.03.15-23.18.49:983][374]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 440
+[2021.03.15-23.18.49:986][374]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene
+[2021.03.15-23.18.49:987][374]Cmd: MAP LOAD FILE="D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.15-23.18.49:987][374]LightingResults: New page: Lighting Build
+[2021.03.15-23.18.49:987][374]LoadErrors: New page: Loading map: SvenAltScene.umap
+[2021.03.15-23.18.50:039][374]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 430
+[2021.03.15-23.18.50:039][374]LogWorld: UWorld::CleanupWorld for Sven_LevelScene, bSessionEnded=true, bCleanupResources=true
+[2021.03.15-23.18.50:041][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.15-23.18.50:042][374]MapCheck: New page: Map Check
+[2021.03.15-23.18.50:042][374]LightingResults: New page: Lighting Build
+[2021.03.15-23.18.50:050][374]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.15-23.18.50:064][374]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.03.15-23.18.50:080][374]LogAudio: Display: Audio Device (ID: 1) registered with world 'SvenAltScene'.
+[2021.03.15-23.18.50:094][374]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.15-23.18.50:094][374]LogAIModule: Creating AISystem for world SvenAltScene
+[2021.03.15-23.18.50:107][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.03.15-23.18.50:116][374]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.15-23.18.50:116][374]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.17ms to complete.
+[2021.03.15-23.18.50:116][374]LogFileHelpers: Loading map 'SvenAltScene' took 0.129
+[2021.03.15-23.18.50:175][374]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.15-23.18.50:175][374]LogContentValidation: Display: Validating World /Game/Sven/Maps/Sven_LevelScene.Sven_LevelScene
+[2021.03.15-23.18.50:225][374]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Sven/Maps/Sven_LevelScene_BuiltData.Sven_LevelScene_BuiltData
+[2021.03.15-23.18.50:524][379]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 420
+[2021.03.15-23.18.50:921][395]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 410
+[2021.03.15-23.18.53:602][568]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 400
+[2021.03.15-23.18.54:563][662]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 390
+[2021.03.15-23.18.55:127][711]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 380
+[2021.03.15-23.18.55:295][729]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 370
+[2021.03.15-23.18.55:446][743]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 360
+[2021.03.15-23.18.55:494][745]MapCheck: New page: Map Check
+[2021.03.15-23.18.55:527][745]Cmd: MAP REBUILD ALLVISIBLE
+[2021.03.15-23.18.55:527][745]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.03.15-23.18.55:827][745]LogWorld: UWorld::CleanupWorld for SvenAltScene, bSessionEnded=true, bCleanupResources=false
+[2021.03.15-23.18.55:884][745]LightingResults: New page: Lighting Build - 16 Mar 2021, 9:18:55 pm
+[2021.03.15-23.18.55:906][745]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.03.15-23.18.55:914][745]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.03.15-23.18.55:914][745]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.03.15-23.18.55:915][745]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.03.15-23.18.55:916][745]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11832
+[2021.03.15-23.18.55:982][745]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.03.15-23.18.55:983][745]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.03.15-23.18.55:983][745]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.03.15-23.18.55:983][745]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.03.15-23.18.55:983][745]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.03.15-23.18.55:983][745]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.03.15-23.18.56:629][745]LogEditorBuildUtils: Build time 0:01
+[2021.03.15-23.18.57:027][752]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_Globe, compiling. 
+[2021.03.15-23.18.57:031][752]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_Globe, compiling. 
+[2021.03.15-23.18.57:036][752]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Modern_Bed_2, compiling. 
+[2021.03.15-23.18.57:040][752]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Modern_Bed_2, compiling. 
+[2021.03.15-23.18.57:077][753]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_Modern_Bed_Table, compiling. 
+[2021.03.15-23.18.57:081][753]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_Modern_Bed_Table, compiling. 
+[2021.03.15-23.18.57:086][753]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Classic_Commode, compiling. 
+[2021.03.15-23.18.57:090][753]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Classic_Commode, compiling. 
+[2021.03.15-23.18.57:119][754]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Bathtub, compiling. 
+[2021.03.15-23.18.57:124][754]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Bathtub, compiling. 
+[2021.03.15-23.18.57:127][754]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Toilet, compiling. 
+[2021.03.15-23.18.57:139][754]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Toilet, compiling. 
+[2021.03.15-23.18.57:151][755]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metall, compiling. 
+[2021.03.15-23.18.57:160][755]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metall, compiling. 
+[2021.03.15-23.18.57:171][756]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Bed_Lamp_3, compiling. 
+[2021.03.15-23.18.57:176][756]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Bed_Lamp_3, compiling. 
+[2021.03.15-23.18.57:180][756]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Bed_Lamp_Glowing_Part, compiling. 
+[2021.03.15-23.18.57:188][756]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Bed_Lamp_Glowing_Part, compiling. 
+[2021.03.15-23.18.57:207][757]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Lamp_Mat, compiling. 
+[2021.03.15-23.18.57:213][757]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Lamp_Mat, compiling. 
+[2021.03.15-23.18.57:220][757]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Lamp_Mat, compiling. 
+[2021.03.15-23.18.57:236][758]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_BS_PlantsAndGlassware, compiling. 
+[2021.03.15-23.18.57:240][758]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_BS_PlantsAndGlassware, compiling. 
+[2021.03.15-23.18.57:255][759]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_FlowerPlant, compiling. 
+[2021.03.15-23.18.57:260][759]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_FlowerPlant, compiling. 
+[2021.03.15-23.18.57:265][759]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_FlowerPlant, compiling. 
+[2021.03.15-23.18.57:278][760]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_BS_TilingGround_01, compiling. 
+[2021.03.15-23.18.57:283][760]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_BS_TilingGround_01, compiling. 
+[2021.03.15-23.18.57:297][761]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_IndoorPlant, compiling. 
+[2021.03.15-23.18.57:302][761]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_IndoorPlant, compiling. 
+[2021.03.15-23.18.57:330][762]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Copper, compiling. 
+[2021.03.15-23.18.57:334][762]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Copper, compiling. 
+[2021.03.15-23.19.22:087][766]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 414
+[2021.03.15-23.19.22:087][766]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 404
+[2021.03.15-23.19.22:087][766]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 394
+[2021.03.15-23.19.22:087][766]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 384
+[2021.03.15-23.19.22:087][766]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 374
+[2021.03.15-23.19.22:087][766]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 364
+[2021.03.15-23.19.22:087][766]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 354
+[2021.03.15-23.19.22:087][766]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 344
+[2021.03.15-23.19.22:087][766]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 334
+[2021.03.15-23.19.22:087][766]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 324
+[2021.03.15-23.19.22:087][766]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 314
+[2021.03.15-23.19.22:087][766]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 304
+[2021.03.15-23.19.22:087][766]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 294
+[2021.03.15-23.19.22:087][766]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 284
+[2021.03.15-23.19.22:087][766]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 274
+[2021.03.15-23.19.22:087][766]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 264
+[2021.03.15-23.19.22:087][766]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 254
+[2021.03.15-23.19.22:087][766]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 244
+[2021.03.15-23.19.22:087][766]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 234
+[2021.03.15-23.19.22:087][766]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 224
+[2021.03.15-23.19.22:087][766]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 214
+[2021.03.15-23.19.22:087][766]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 204
+[2021.03.15-23.19.22:087][766]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 194
+[2021.03.15-23.19.22:087][766]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 184
+[2021.03.15-23.19.22:087][766]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 174
+[2021.03.15-23.19.22:087][766]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 164
+[2021.03.15-23.19.22:087][766]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 154
+[2021.03.15-23.19.22:087][766]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 144
+[2021.03.15-23.19.22:087][766]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 134
+[2021.03.15-23.19.22:087][766]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 124
+[2021.03.15-23.19.22:087][766]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 114
+[2021.03.15-23.19.22:087][766]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 104
+[2021.03.15-23.19.22:087][766]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 94
+[2021.03.15-23.19.22:087][766]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 84
+[2021.03.15-23.19.22:087][766]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 74
+[2021.03.15-23.19.22:087][766]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 64
+[2021.03.15-23.19.22:087][766]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 55
+[2021.03.15-23.19.22:087][766]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 48
+[2021.03.15-23.19.22:087][766]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 41
+[2021.03.15-23.19.22:087][766]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 35
+[2021.03.15-23.19.22:087][766]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 30
+[2021.03.15-23.19.22:087][766]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 26
+[2021.03.15-23.19.22:087][766]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 22
+[2021.03.15-23.19.22:087][766]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2021.03.15-23.19.22:088][766]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2021.03.15-23.19.22:088][766]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2021.03.15-23.19.22:088][766]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.03.15-23.19.22:088][766]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.03.15-23.19.22:088][766]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2021.03.15-23.19.22:088][766]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.03.15-23.19.22:088][766]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.03.15-23.19.22:088][766]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.03.15-23.19.22:088][766]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.03.15-23.19.22:088][766]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.03.15-23.19.22:088][766]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2021.03.15-23.19.23:692][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.03.15-23.19.29:841][308]Job is a success!
+[2021.03.15-23.19.33:700][702]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.012s
+[2021.03.15-23.19.33:700][702]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.03.15-23.19.33:700][702]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb
+[2021.03.15-23.19.33:700][702]LogVolumetricLightmapImport:      Bricks at depth
+[2021.03.15-23.19.33:700][702]LogVolumetricLightmapImport:          0: 3.2% covering 100.0% of volume
+[2021.03.15-23.19.33:700][702]LogVolumetricLightmapImport:          1: 6.5% covering 3.1% of volume
+[2021.03.15-23.19.33:700][702]LogVolumetricLightmapImport:          2: 90.3% covering 0.7% of volume
+[2021.03.15-23.19.33:700][702]LogVolumetricLightmapImport:      Bricks in each level
+[2021.03.15-23.19.33:700][702]LogVolumetricLightmapImport:          SvenAltScene 			 31 bricks 	 100.0% (Persistent Level)
+[2021.03.15-23.19.34:220][702]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2021.03.15-23.19.34:220][702]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2021.03.15-23.19.34:220][702]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2021.03.15-23.19.34:220][702]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2021.03.15-23.19.34:220][702]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2021.03.15-23.19.34:220][702]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2021.03.15-23.19.34:316][702]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 32X32)
+[2021.03.15-23.19.34:316][702]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 256X512)
+[2021.03.15-23.19.34:316][702]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X512)
+[2021.03.15-23.19.34:317][702]LogStaticLightingSystem: SvenAltScene_BuiltData storing lightmap data for 111 meshes in 4 LightmapResourceClusters (27.8 Meshes per cluster).
+[2021.03.15-23.19.34:327][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.03.15-23.19.34:348][702]Lightmass on DESKTOP-HQ5VUTK: 9.73 sec total, 371 ms importing, 80 ms setup, 994 ms photons, 8.20 sec processing, 0 ms extra exporting [382/382 mappings]. Threads: 1:30 min total, 23.2 sec processing.
+[2021.03.15-23.19.34:356][702]LogStaticLightingSystem: Illumination: 34.7 sec (401 ms encoding lightmaps, 87 ms encoding shadowmaps)
+[2021.03.15-23.19.34:356][702]LogStaticLightingSystem: Lightmap texture memory:  4.0 MB (2.0 MB streaming, 2.0 MB non-streaming), 6 textures
+[2021.03.15-23.19.34:356][702]LogStaticLightingSystem: Shadowmap texture memory: 3.3 MB (2.7 MB streaming, 0.7 MB non-streaming), 3 textures
+[2021.03.15-23.19.35:370][702]DumpUnbuiltLightIteractions
+[2021.03.15-23.19.35:370][702]Lights with unbuilt interactions: 0
+[2021.03.15-23.19.35:370][702]
+[2021.03.15-23.19.35:370][702]Primitives with unbuilt interactions: 0
+[2021.03.15-23.19.35:738][702]LogTexture: Display: Building textures: NewReflectionComponentTexture2B9EEA064B9A8F5FA8C6EB9E58AC17F3 (BGRA8, 128X128)
+[2021.03.15-23.19.35:781][703]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.03.15-23.19.35:781][703]MapCheck: New page: SvenAltScene - 16 Mar 2021, 9:19:35 pm
+[2021.03.15-23.19.35:783][703]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.06ms to complete.
+[2021.03.15-23.23.38:983][797]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BathTowelHanging_a6)
+[2021.03.15-23.24.43:918][576]LogSlate: Took 0.000826 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.03.15-23.24.55:259][907]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BubbleBottle_C)
+[2021.03.15-23.28.44:113][342]Cmd: TRANSACTION UNDO
+[2021.03.15-23.28.44:113][342]LogEditorTransaction: Undo Select Brush Surface
+[2021.03.15-23.28.44:827][366]Cmd: TRANSACTION UNDO
+[2021.03.15-23.28.44:827][366]LogEditorTransaction: Undo Move Actors
+[2021.03.15-23.28.46:588][560]Cmd: TRANSACTION UNDO
+[2021.03.15-23.28.46:588][560]LogEditorTransaction: Undo Move Actors
+[2021.03.15-23.29.49:926][938]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.03.15-23.29.49:931][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sven/Alt_Maps/SvenAltScene" FILE="D:/Sven/Sven/Sven/Saved/Autosaves/Game/Sven/Alt_Maps/SvenAltScene_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.03.15-23.29.50:011][938]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/SvenAltScene_Auto1A0C44D164C3B63B26D0AC8AD05E25BB8.tmp' to 'D:/Sven/Sven/Sven/Saved/Autosaves/Game/Sven/Alt_Maps/SvenAltScene_Auto1.umap'
+[2021.03.15-23.29.50:013][938]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Sven/Alt_Maps/SvenAltScene' took 0.092
+[2021.03.15-23.29.50:013][938]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.092
+[2021.03.15-23.39.50:551][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.03.15-23.39.50:552][732]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Sven/Alt_Maps/SvenAltScene' took 0.006
+[2021.03.15-23.51.53:189][661]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.15-23.51.53:202][661]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.15-23.51.53:203][661]PIE: New page: PIE session: SvenAltScene (16 Mar 2021, 9:51:53 pm)
+[2021.03.15-23.51.53:208][661]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.03.15-23.51.53:209][661]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.03.15-23.51.53:210][661]LogPlayLevel: Creating play world package: /Game/Sven/Alt_Maps/UEDPIE_0_SvenAltScene
+[2021.03.15-23.51.53:233][661]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022211s)
+[2021.03.15-23.51.53:234][661]LogAIModule: Creating AISystem for world SvenAltScene
+[2021.03.15-23.51.53:235][661]LogPlayLevel: PIE: World Init took: (0.001668s)
+[2021.03.15-23.51.53:235][661]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene to /Game/Sven/Alt_Maps/UEDPIE_0_SvenAltScene.SvenAltScene (0.024867s)
+[2021.03.15-23.51.53:241][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.03.15-23.51.53:247][661]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.03.15-23.51.53:247][661]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.15-23.51.53:247][661]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.15-23.51.53:247][661]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.15-23.51.53:247][661]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.15-23.51.53:247][661]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.15-23.51.53:247][661]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.15-23.51.53:247][661]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.15-23.51.53:247][661]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.15-23.51.53:247][661]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.15-23.51.53:247][661]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.15-23.51.53:254][661]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.15-23.51.53:254][661]LogAudioMixer: Display: 1: FrontRight
+[2021.03.15-23.51.53:269][661]LogAudioMixer: Display: Using Audio Device Speakers (2- USB Audio Device)
+[2021.03.15-23.51.53:269][661]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.15-23.51.53:269][661]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.15-23.51.53:269][661]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.15-23.51.53:270][661]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.15-23.51.53:270][661]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.15-23.51.53:270][661]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.15-23.51.53:287][661]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.15-23.51.53:287][661]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.15-23.51.53:287][661]LogInit: FAudioDevice initialized.
+[2021.03.15-23.51.53:287][661]LogAudio: Display: Audio Device (ID: 2) registered with world 'SvenAltScene'.
+[2021.03.15-23.51.54:009][661]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.15-23.51.54:019][661]LogWorld: Bringing World /Game/Sven/Alt_Maps/UEDPIE_0_SvenAltScene.SvenAltScene up for play (max tick rate 0) at 2021.03.16-10.51.54
+[2021.03.15-23.51.54:020][661]LogWorld: Bringing up level for play took: 0.004397
+[2021.03.15-23.51.54:020][661]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.03.15-23.51.54:039][661]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.03.15-23.51.54:069][661]PIE: Server logged in
+[2021.03.15-23.51.54:071][661]PIE: Play in editor total start time 0.878 seconds.
+[2021.03.15-23.54.15:587][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-23.54.15:587][462]LogWorld: BeginTearingDown for /Game/Sven/Alt_Maps/UEDPIE_0_SvenAltScene
+[2021.03.15-23.54.15:588][462]LogWorld: UWorld::CleanupWorld for SvenAltScene, bSessionEnded=true, bCleanupResources=true
+[2021.03.15-23.54.15:589][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.15-23.54.15:601][462]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.15-23.54.15:612][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.15-23.54.15:617][462]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.15-23.54.15:620][462]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.15-23.54.15:621][462]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.15-23.54.15:645][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-23.54.15:649][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.03.15-23.54.15:676][463]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.03.15-23.58.37:469][431]LogTexture: Display: Building textures: WoodPlanksGrimy_b_R (BC4, 512X512)
+[2021.03.15-23.58.37:469][431]LogTexture: Display: Building textures: WoodPlanksGrimy_a_r (BC4, 512X512)
+[2021.03.15-23.58.37:469][431]LogTexture: Display: Building textures: WoodPlanksGrimy_b_N (BC5, 512X512)
+[2021.03.15-23.58.37:469][431]LogTexture: Display: Building textures: WoodPlanksGrimy_a_n (BC5, 512X512)
+[2021.03.15-23.58.37:469][431]LogTexture: Display: Building textures: WoodPlanksGrimy_b_C (AutoDXT, 512X512)
+[2021.03.15-23.58.37:469][431]LogTexture: Display: Building textures: BrickGrimy_a_r (BC4, 1024X1024)
+[2021.03.15-23.58.37:469][431]LogTexture: Display: Building textures: WoodPlanksGrimy_a_c (AutoDXT, 512X512)
+[2021.03.15-23.58.37:469][431]LogTexture: Display: Building textures: BrickGrimy_a_c (AutoDXT, 1024X1024)
+[2021.03.15-23.58.37:469][431]LogTexture: Display: Building textures: BrickGrimy_a_n (BC5, 1024X1024)
+[2021.03.15-23.58.37:469][431]LogStaticMesh: Building static mesh UrHouseDestroyed_a...
+[2021.03.15-23.58.51:530][431]LogStaticMesh: Built static mesh [14.06s] /Game/EF_Edith/Meshes/UrHouseDestroyed_a.UrHouseDestroyed_a
+[2021.03.15-23.58.51:610][431]LogMaterial: Display: Missing cached shader map for material Master_Props_Mat, compiling. 
+[2021.03.15-23.58.51:672][431]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 137
+[2021.03.15-23.58.51:672][431]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 127
+[2021.03.15-23.58.51:672][431]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 117
+[2021.03.15-23.58.51:672][431]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 107
+[2021.03.15-23.58.51:672][431]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 97
+[2021.03.15-23.58.51:672][431]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 87
+[2021.03.15-23.58.51:672][431]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 77
+[2021.03.15-23.58.51:672][431]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 67
+[2021.03.15-23.58.56:323][672]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 57
+[2021.03.15-23.58.56:451][681]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 49
+[2021.03.15-23.58.56:464][682]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 42
+[2021.03.15-23.58.56:516][686]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 36
+[2021.03.15-23.58.56:677][697]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 31
+[2021.03.15-23.58.58:577][828]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 27
+[2021.03.15-23.58.58:847][845]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 23
+[2021.03.15-23.58.59:168][866]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 20
+[2021.03.15-23.58.59:579][897]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 17
+[2021.03.15-23.58.59:626][901]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2021.03.15-23.58.59:911][922]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.03.15-23.58.59:942][924]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.03.15-23.59.00:449][960]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.03.15-23.59.00:612][971]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.03.15-23.59.00:643][973]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.03.15-23.59.00:761][982]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.03.15-23.59.00:775][983]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.03.15-23.59.00:890][991]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.03.15-23.59.00:954][995]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.03.15-23.59.12:260][330]Cmd: TRANSACTION UNDO
+[2021.03.15-23.59.12:260][330]LogEditorTransaction: Undo Select Brush Surface
+[2021.03.15-23.59.12:908][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.03.15-23.59.12:914][345]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Sven/Alt_Maps/SvenAltScene' took 0.012
+[2021.03.16-00.00.31:299][ 90]LogTexture: Display: Building textures: OldTruck_a_n (BC5, 1024X1024)
+[2021.03.16-00.00.31:300][ 90]LogTexture: Display: Building textures: OldTruck_a_c (AutoDXT, 1024X1024)
+[2021.03.16-00.00.31:300][ 90]LogStaticMesh: Building static mesh OldTruck_dense...
+[2021.03.16-00.00.31:396][ 90]LogStaticMesh: Built static mesh [0.10s] /Game/EF_Edith/Meshes/OldTruck_dense.OldTruck_dense
+[2021.03.16-00.00.31:445][ 90]LogActorFactory: Actor Factory created OldTruck_dense
+[2021.03.16-00.00.32:739][222]LogActorFactory: Actor Factory created OldTruck_dense
+[2021.03.16-00.01.03:681][787]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OldTruck_dense)
+[2021.03.16-00.01.04:873][919]Cmd: DELETE
+[2021.03.16-00.01.04:873][919]Cmd: ACTOR DELETE
+[2021.03.16-00.01.04:890][919]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.16-00.01.04:896][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.03.16-00.01.04:899][919]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2021.03.16-00.03.34:843][ 65]LogActorFactory: Actor Factory created EdithCouch_Pillow
+[2021.03.16-00.03.45:403][296]LogActorFactory: Actor Factory created EdithCouch_Pillow
+[2021.03.16-00.03.53:116][175]Cmd: DELETE
+[2021.03.16-00.03.53:116][175]Cmd: ACTOR DELETE
+[2021.03.16-00.03.53:122][175]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.16-00.03.53:127][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.03.16-00.03.53:129][175]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.03.16-00.04.13:748][167]LogTexture: Display: Building textures: EdithCouch_a_n (BC5, 512X512)
+[2021.03.16-00.04.13:748][167]LogTexture: Display: Building textures: EdithCouch_a_c (AutoDXT, 512X512)
+[2021.03.16-00.04.13:748][167]LogTexture: Display: Building textures: EdithCouch_a_r (BC4, 512X512)
+[2021.03.16-00.04.13:760][167]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/EF_Edith/Materials/EdithCouch_a_Mat.EdithCouch_a_Mat
+[2021.03.16-00.04.13:764][167]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MaterialEditor' in 0.0003 seconds. Added 3 classes and 0 folders.
+[2021.03.16-00.04.22:961][ 41]LogSlate: Window 'EdithCouch_a_Mat' being destroyed
+[2021.03.16-00.04.22:970][ 41]LogSlate: Window 'EdithCouch_a_Mat' being destroyed
+[2021.03.16-00.04.23:012][ 41]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.03.16-00.04.23:012][ 41]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.16-00.04.23:967][140]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/EF_Edith/Materials/EdithCouch_Pillow_Mat.EdithCouch_Pillow_Mat
+[2021.03.16-00.04.52:727][235]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.16-00.04.54:252][409]LogSlate: Window 'EdithCouch_Pillow_Mat' being destroyed
+[2021.03.16-00.04.54:256][409]LogSlate: Window 'EdithCouch_Pillow_Mat' being destroyed
+[2021.03.16-00.04.54:263][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2021.03.16-00.04.54:280][409]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.16-00.04.54:602][409]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.03.16-00.04.54:602][409]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.03.16-00.04.54:603][409]TextureStreamingBuild: Display: Compiling optional shaders took 0.328 seconds.
+[2021.03.16-00.04.54:618][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.03.16-00.04.54:660][409]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.03.16-00.04.54:660][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.16-00.05.21:832][772]LogActorFactory: Actor Factory created EdithCouch_Pillow
+[2021.03.16-00.05.23:166][918]LogActorFactory: Actor Factory created EdithCouch_Pillow
+[2021.03.16-00.06.09:543][110]Cmd: EDIT COPY
+[2021.03.16-00.06.09:790][138]Cmd: EDIT PASTE
+[2021.03.16-00.06.27:618][184]Cmd: EDIT PASTE
+[2021.03.16-00.07.00:073][488]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EdithCouch_Pillow)
+[2021.03.16-00.07.00:959][570]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EdithCouch_Pillow2)
+[2021.03.16-00.07.01:396][617]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EdithCouch_Pillow3)
+[2021.03.16-00.07.07:012][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sven/Alt_Maps/SvenAltScene" FILE="D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.16-00.07.07:019][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.03.16-00.07.07:101][251]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/SvenAltScene4B0DB9F6405E2A94D4BCD08B33965E44.tmp' to 'D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene.umap'
+[2021.03.16-00.07.07:109][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sven/Alt_Maps/SvenAltScene_BuiltData" FILE="D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene_BuiltData.uasset" SILENT=true
+[2021.03.16-00.07.07:206][251]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/SvenAltScene_BuiltData49B36E31431DAD4D8E781D9CDB2A5EA8.tmp' to 'D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene_BuiltData.uasset'
+[2021.03.16-00.07.07:220][251]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.16-00.07.07:220][251]LogContentValidation: Display: Validating World /Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene
+[2021.03.16-00.07.07:220][251]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Sven/Alt_Maps/SvenAltScene_BuiltData.SvenAltScene_BuiltData
+[2021.03.16-00.11.41:320][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sven/Alt_Maps/SvenAltScene" FILE="D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.16-00.11.41:325][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.03.16-00.11.41:398][954]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/SvenAltScene91F56506487D0164A020BBA41A655948.tmp' to 'D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene.umap'
+[2021.03.16-00.11.41:406][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sven/Alt_Maps/SvenAltScene_BuiltData" FILE="D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene_BuiltData.uasset" SILENT=true
+[2021.03.16-00.11.41:521][954]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/SvenAltScene_BuiltDataC4E849A94DD7EDF799937F8DAC14E48D.tmp' to 'D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene_BuiltData.uasset'
+[2021.03.16-00.11.41:558][954]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.16-00.11.41:558][954]LogContentValidation: Display: Validating World /Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene
+[2021.03.16-00.11.41:558][954]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Sven/Alt_Maps/SvenAltScene_BuiltData.SvenAltScene_BuiltData
+[2021.03.16-00.14.59:715][688]LogTexture: Display: Building textures: WoodPlanksFloor_c_n (BC5, 1024X1024)
+[2021.03.16-00.14.59:715][688]LogTexture: Display: Building textures: WoodPlanksFloor_c_c (AutoDXT, 1024X1024)
+[2021.03.16-00.14.59:715][688]LogTexture: Display: Building textures: WoodPlanksFloor_c_r (BC4, 1024X1024)
+[2021.03.16-00.14.59:715][688]LogStaticMesh: Building static mesh F4CommonAreaStairs...
+[2021.03.16-00.15.04:854][688]LogStaticMesh: Built static mesh [5.14s] /Game/EF_Edith/Meshes/F4CommonAreaStairs.F4CommonAreaStairs
+[2021.03.16-00.15.04:970][688]LogActorFactory: Actor Factory created F4CommonAreaStairs
+[2021.03.16-00.15.07:917][974]LogActorFactory: Actor Factory created F4CommonAreaStairs
+[2021.03.16-00.15.08:456][ 34]LogActorFactory: Actor Factory created F4CommonAreaStairs
+[2021.03.16-00.15.08:667][ 54]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.03.16-00.15.35:118][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (F4CommonAreaStairs)
+[2021.03.16-00.15.36:129][290]Cmd: DELETE
+[2021.03.16-00.15.36:129][290]Cmd: ACTOR DELETE
+[2021.03.16-00.15.36:135][290]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.16-00.15.36:141][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.03.16-00.15.36:145][290]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.03.16-00.15.49:098][808]MapCheck: New page: Map Check
+[2021.03.16-00.15.49:108][808]Cmd: MAP REBUILD ALLVISIBLE
+[2021.03.16-00.15.49:108][808]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.03.16-00.15.49:267][808]LogWorld: UWorld::CleanupWorld for SvenAltScene, bSessionEnded=true, bCleanupResources=false
+[2021.03.16-00.15.49:301][808]LightingResults: New page: Lighting Build - 16 Mar 2021, 10:15:49 pm
+[2021.03.16-00.15.49:309][808]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.03.16-00.15.49:312][808]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.03.16-00.15.49:312][808]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.03.16-00.15.49:313][808]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.03.16-00.15.49:313][808]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11832
+[2021.03.16-00.15.53:879][808]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.03.16-00.15.53:880][808]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.03.16-00.15.53:880][808]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.03.16-00.15.53:880][808]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.03.16-00.15.53:880][808]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.03.16-00.15.53:880][808]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.03.16-00.15.54:002][808]LogEditorBuildUtils: Build time 0:04
+[2021.03.16-00.15.54:257][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.03.16-00.16.00:133][292]Job is a success!
+[2021.03.16-00.16.00:281][294]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2021.03.16-00.16.00:281][294]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.03.16-00.16.00:281][294]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb
+[2021.03.16-00.16.00:281][294]LogVolumetricLightmapImport:      Bricks at depth
+[2021.03.16-00.16.00:281][294]LogVolumetricLightmapImport:          0: 3.2% covering 100.0% of volume
+[2021.03.16-00.16.00:281][294]LogVolumetricLightmapImport:          1: 6.5% covering 3.1% of volume
+[2021.03.16-00.16.00:281][294]LogVolumetricLightmapImport:          2: 90.3% covering 0.7% of volume
+[2021.03.16-00.16.00:281][294]LogVolumetricLightmapImport:      Bricks in each level
+[2021.03.16-00.16.00:281][294]LogVolumetricLightmapImport:          SvenAltScene 			 31 bricks 	 100.0% (Persistent Level)
+[2021.03.16-00.16.00:811][294]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2021.03.16-00.16.00:811][294]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2021.03.16-00.16.00:811][294]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2021.03.16-00.16.00:811][294]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2021.03.16-00.16.00:811][294]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2021.03.16-00.16.00:811][294]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2021.03.16-00.16.00:924][294]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2021.03.16-00.16.00:924][294]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 256X512)
+[2021.03.16-00.16.00:924][294]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 1024X512)
+[2021.03.16-00.16.00:925][294]LogStaticLightingSystem: SvenAltScene_BuiltData storing lightmap data for 114 meshes in 4 LightmapResourceClusters (28.5 Meshes per cluster).
+[2021.03.16-00.16.00:934][294]Lightmass on DESKTOP-HQ5VUTK: 6.18 sec total, 337 ms importing, 54 ms setup, 978 ms photons, 4.77 sec processing, 0 ms extra exporting [385/385 mappings]. Threads: 52.5 sec total, 23.4 sec processing.
+[2021.03.16-00.16.00:945][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.03.16-00.16.00:968][294]LogStaticLightingSystem: Illumination: 11.6 sec (436 ms encoding lightmaps, 86 ms encoding shadowmaps)
+[2021.03.16-00.16.00:968][294]LogStaticLightingSystem: Lightmap texture memory:  4.0 MB (2.0 MB streaming, 2.0 MB non-streaming), 6 textures
+[2021.03.16-00.16.00:968][294]LogStaticLightingSystem: Shadowmap texture memory: 3.3 MB (2.7 MB streaming, 0.7 MB non-streaming), 3 textures
+[2021.03.16-00.16.01:889][294]DumpUnbuiltLightIteractions
+[2021.03.16-00.16.01:889][294]Lights with unbuilt interactions: 0
+[2021.03.16-00.16.01:889][294]
+[2021.03.16-00.16.01:889][294]Primitives with unbuilt interactions: 0
+[2021.03.16-00.16.01:980][294]LogTexture: Display: Building textures: NewReflectionComponentTexture2B9EEA064B9A8F5FA8C6EB9E58AC17F3 (BGRA8, 128X128)
+[2021.03.16-00.16.02:010][295]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.03.16-00.16.02:010][295]MapCheck: New page: SvenAltScene - 16 Mar 2021, 10:16:02 pm
+[2021.03.16-00.16.02:011][295]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.777ms to complete.
+[2021.03.16-00.17.18:764][ 41]LogStaticMesh: Building static mesh EdithRoomWallStair_a...
+[2021.03.16-00.17.18:935][ 41]LogStaticMesh: Built static mesh [0.17s] /Game/EF_Edith/Meshes/EdithRoomWallStair_a.EdithRoomWallStair_a
+[2021.03.16-00.17.18:963][ 41]LogActorFactory: Actor Factory created EdithRoomWallStair_a
+[2021.03.16-00.17.19:836][139]LogActorFactory: Actor Factory created EdithRoomWallStair_a
+[2021.03.16-00.18.13:505][479]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EdithRoomWallStair_a)
+[2021.03.16-00.18.14:229][564]Cmd: DELETE
+[2021.03.16-00.18.14:229][564]Cmd: ACTOR DELETE
+[2021.03.16-00.18.14:235][564]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.16-00.18.14:241][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.03.16-00.18.14:245][564]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.03.16-00.18.45:423][265]LogStaticMesh: Building static mesh Floor5Stairs_a...
+[2021.03.16-00.18.54:961][265]LogStaticMesh: Built static mesh [9.54s] /Game/EF_Edith/Meshes/Floor5Stairs_a.Floor5Stairs_a
+[2021.03.16-00.18.55:030][265]LogActorFactory: Actor Factory created Floor5Stairs_a
+[2021.03.16-00.19.05:342][469]LogActorFactory: Actor Factory created Floor5Stairs_a
+[2021.03.16-00.19.12:628][336]Cmd: DELETE
+[2021.03.16-00.19.12:628][336]Cmd: ACTOR DELETE
+[2021.03.16-00.19.12:634][336]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.16-00.19.12:639][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.03.16-00.19.12:642][336]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.03.16-00.21.43:603][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.03.16-00.21.43:606][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sven/Alt_Maps/SvenAltScene" FILE="D:/Sven/Sven/Sven/Saved/Autosaves/Game/Sven/Alt_Maps/SvenAltScene_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.03.16-00.21.43:681][ 22]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/SvenAltScene_Auto2F49F80354DD414A94B0F33B35D95C9E5.tmp' to 'D:/Sven/Sven/Sven/Saved/Autosaves/Game/Sven/Alt_Maps/SvenAltScene_Auto2.umap'
+[2021.03.16-00.21.43:683][ 22]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Sven/Alt_Maps/SvenAltScene' took 0.084
+[2021.03.16-00.21.43:683][ 22]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.084
+[2021.03.16-00.21.43:683][ 22]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/EF_Edith/Materials/EdithCouch_Pillow_Mat] ([1] browsable assets)...
+[2021.03.16-00.21.43:700][ 22]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/EF_Edith/Materials/EdithCouch_Pillow_Mat.EdithCouch_Pillow_Mat]
+[2021.03.16-00.21.43:700][ 22]OBJ SavePackage: Finished generating thumbnails for package [/Game/EF_Edith/Materials/EdithCouch_Pillow_Mat]
+[2021.03.16-00.21.43:705][ 22]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/EdithCouch_Pillow_Mat_Auto2A899BDB44EE5800A84B6CB95BDCC27D6.tmp' to 'D:/Sven/Sven/Sven/Saved/Autosaves/Game/EF_Edith/Materials/EdithCouch_Pillow_Mat_Auto2.uasset'
+[2021.03.16-00.21.43:707][ 22]LogFileHelpers: Auto-saving content packages took 0.024
+[2021.03.16-00.25.37:505][148]LogActorFactory: Actor Factory created TpHolder_a
+[2021.03.16-00.25.38:258][232]LogActorFactory: Actor Factory created TpHolder_a
+[2021.03.16-00.27.08:686][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sven/Alt_Maps/SvenAltScene" FILE="D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.16-00.27.08:691][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.03.16-00.27.08:759][631]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/SvenAltScene12675A2A4DF5AE935BEEC597A012934B.tmp' to 'D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene.umap'
+[2021.03.16-00.27.08:767][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sven/Alt_Maps/SvenAltScene_BuiltData" FILE="D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene_BuiltData.uasset" SILENT=true
+[2021.03.16-00.27.08:863][631]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/SvenAltScene_BuiltDataCCAE5AF34F1B9FD9DD884BBB0D8C7C1B.tmp' to 'D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene_BuiltData.uasset'
+[2021.03.16-00.27.08:955][631]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.16-00.27.08:956][631]LogContentValidation: Display: Validating World /Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene
+[2021.03.16-00.27.08:956][631]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Sven/Alt_Maps/SvenAltScene_BuiltData.SvenAltScene_BuiltData
+[2021.03.16-00.27.29:891][992]LogStaticMesh: Building static mesh WindowBench_a...
+[2021.03.16-00.27.29:958][992]LogStaticMesh: Built static mesh [0.07s] /Game/EF_MollyGreg/Meshes/WindowBench_a.WindowBench_a
+[2021.03.16-00.27.29:994][993]LogActorFactory: Actor Factory created WindowBench_a
+[2021.03.16-00.27.30:089][  0]LogActorFactory: Actor Factory created WindowBench_a
+[2021.03.16-00.27.36:229][687]Cmd: DELETE
+[2021.03.16-00.27.36:229][687]Cmd: ACTOR DELETE
+[2021.03.16-00.27.36:235][687]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.16-00.27.36:240][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.03.16-00.27.36:243][687]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.03.16-00.27.57:230][511]LogActorFactory: Actor Factory created Citroen
+[2021.03.16-00.27.57:590][549]LogActorFactory: Actor Factory created Citroen
+[2021.03.16-00.28.29:606][298]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.16-00.28.29:615][298]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.16-00.28.29:615][298]PIE: New page: PIE session: SvenAltScene (16 Mar 2021, 10:28:29 pm)
+[2021.03.16-00.28.29:650][298]LogPlayLevel: Creating play world package: /Game/Sven/Alt_Maps/UEDPIE_0_SvenAltScene
+[2021.03.16-00.28.29:670][298]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020614s)
+[2021.03.16-00.28.29:671][298]LogAIModule: Creating AISystem for world SvenAltScene
+[2021.03.16-00.28.29:671][298]LogPlayLevel: PIE: World Init took: (0.000933s)
+[2021.03.16-00.28.29:672][298]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene to /Game/Sven/Alt_Maps/UEDPIE_0_SvenAltScene.SvenAltScene (0.021722s)
+[2021.03.16-00.28.29:677][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.03.16-00.28.29:679][298]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.03.16-00.28.29:679][298]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.16-00.28.29:679][298]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.16-00.28.29:679][298]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.16-00.28.29:679][298]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.16-00.28.29:679][298]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.16-00.28.29:680][298]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.16-00.28.29:680][298]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.16-00.28.29:680][298]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.16-00.28.29:680][298]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.16-00.28.29:680][298]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.16-00.28.29:686][298]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.16-00.28.29:687][298]LogAudioMixer: Display: 1: FrontRight
+[2021.03.16-00.28.29:701][298]LogAudioMixer: Display: Using Audio Device Speakers (2- USB Audio Device)
+[2021.03.16-00.28.29:701][298]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.16-00.28.29:701][298]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.16-00.28.29:701][298]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.16-00.28.29:701][298]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.16-00.28.29:701][298]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.16-00.28.29:702][298]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.16-00.28.29:719][298]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.16-00.28.29:719][298]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.16-00.28.29:719][298]LogInit: FAudioDevice initialized.
+[2021.03.16-00.28.29:719][298]LogAudio: Display: Audio Device (ID: 3) registered with world 'SvenAltScene'.
+[2021.03.16-00.28.29:728][298]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.16-00.28.29:732][298]LogWorld: Bringing World /Game/Sven/Alt_Maps/UEDPIE_0_SvenAltScene.SvenAltScene up for play (max tick rate 0) at 2021.03.16-11.28.29
+[2021.03.16-00.28.29:732][298]LogWorld: Bringing up level for play took: 0.003084
+[2021.03.16-00.28.29:732][298]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.03.16-00.28.29:735][298]PIE: Server logged in
+[2021.03.16-00.28.29:736][298]PIE: Play in editor total start time 0.127 seconds.
+[2021.03.16-00.29.00:824][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.16-00.29.00:824][ 22]LogWorld: BeginTearingDown for /Game/Sven/Alt_Maps/UEDPIE_0_SvenAltScene
+[2021.03.16-00.29.00:824][ 22]LogWorld: UWorld::CleanupWorld for SvenAltScene, bSessionEnded=true, bCleanupResources=true
+[2021.03.16-00.29.00:825][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.16-00.29.00:834][ 22]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.16-00.29.00:847][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.16-00.29.00:852][ 22]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.16-00.29.00:852][ 22]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.16-00.29.00:853][ 22]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.16-00.29.00:871][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.16-00.29.00:874][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.03.16-00.29.00:911][ 23]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.03.16-00.29.10:609][121]Cmd: DELETE
+[2021.03.16-00.29.10:609][121]Cmd: ACTOR DELETE
+[2021.03.16-00.29.10:615][121]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.16-00.29.10:621][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.03.16-00.29.10:623][121]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.03.16-00.30.18:296][ 54]LogActorFactory: Actor Factory created WallShelfInset_a
+[2021.03.16-00.30.22:190][514]LogActorFactory: Actor Factory created WallShelfInset_a
+[2021.03.16-00.30.48:531][457]Cmd: EDIT COPY
+[2021.03.16-00.30.48:803][489]Cmd: EDIT PASTE
+[2021.03.16-00.30.56:824][424]Cmd: EDIT COPY
+[2021.03.16-00.30.57:036][438]Cmd: EDIT PASTE
+[2021.03.16-00.31.03:646][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sven/Alt_Maps/SvenAltScene" FILE="D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.16-00.31.03:651][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.03.16-00.31.03:721][206]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/SvenAltSceneAC97877E4FB0C2B4DAF5CF8643AFC5B0.tmp' to 'D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene.umap'
+[2021.03.16-00.31.03:728][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sven/Alt_Maps/SvenAltScene_BuiltData" FILE="D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene_BuiltData.uasset" SILENT=true
+[2021.03.16-00.31.03:830][206]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/SvenAltScene_BuiltDataC82505F342745BB6ED9D2F89CB8C6A7B.tmp' to 'D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene_BuiltData.uasset'
+[2021.03.16-00.31.03:845][206]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.16-00.31.03:845][206]LogContentValidation: Display: Validating World /Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene
+[2021.03.16-00.31.03:845][206]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Sven/Alt_Maps/SvenAltScene_BuiltData.SvenAltScene_BuiltData
+[2021.03.16-00.31.08:858][740]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallShelfInset_a3)
+[2021.03.16-00.31.10:530][934]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallShelfInset_a)
+[2021.03.16-00.31.13:874][304]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallShelfInset_a3)
+[2021.03.16-00.31.19:764][979]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallShelfInset_a2)
+[2021.03.16-00.31.20:803][ 98]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallShelfInset_a)
+[2021.03.16-00.31.21:714][203]Cmd: EDIT COPY
+[2021.03.16-00.31.22:096][248]Cmd: EDIT PASTE
+[2021.03.16-00.31.32:040][293]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallShelfInset_a6)
+[2021.03.16-00.31.32:809][380]Cmd: DELETE
+[2021.03.16-00.31.32:809][380]Cmd: ACTOR DELETE
+[2021.03.16-00.31.32:815][380]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.16-00.31.32:821][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.03.16-00.31.32:823][380]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.03.16-00.31.33:303][436]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallShelfInset_a5)
+[2021.03.16-00.31.33:529][459]Cmd: DELETE
+[2021.03.16-00.31.33:529][459]Cmd: ACTOR DELETE
+[2021.03.16-00.31.33:535][459]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.16-00.31.33:540][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.03.16-00.31.33:541][459]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.03.16-00.31.34:261][544]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallShelfInset_a4)
+[2021.03.16-00.31.34:404][557]Cmd: DELETE
+[2021.03.16-00.31.34:404][557]Cmd: ACTOR DELETE
+[2021.03.16-00.31.34:410][557]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.16-00.31.34:415][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.03.16-00.31.34:416][557]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.03.16-00.31.40:600][257]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallShelfInset_a)
+[2021.03.16-00.31.41:882][397]Cmd: EDIT COPY
+[2021.03.16-00.31.42:619][477]Cmd: EDIT PASTE
+[2021.03.16-00.32.04:893][997]Cmd: EDIT COPY
+[2021.03.16-00.32.05:156][ 22]Cmd: EDIT PASTE
+[2021.03.16-00.32.15:169][158]Cmd: EDIT COPY
+[2021.03.16-00.32.15:401][178]Cmd: EDIT PASTE
+[2021.03.16-00.32.21:719][921]Cmd: DELETE
+[2021.03.16-00.32.21:719][921]Cmd: ACTOR DELETE
+[2021.03.16-00.32.21:726][921]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.16-00.32.21:731][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.03.16-00.32.21:733][921]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.03.16-00.32.22:662][ 32]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallShelfInset_a4)
+[2021.03.16-00.32.23:465][124]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallShelfInset_a5)
+[2021.03.16-00.32.24:300][220]Cmd: EDIT COPY
+[2021.03.16-00.32.24:531][247]Cmd: EDIT PASTE
+[2021.03.16-00.32.35:612][482]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallShelfInset_a5)
+[2021.03.16-00.32.36:160][523]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallShelfInset_a4)
+[2021.03.16-00.32.38:088][733]Cmd: EDIT COPY
+[2021.03.16-00.32.38:305][753]Cmd: EDIT PASTE
+[2021.03.16-00.32.59:107][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sven/Alt_Maps/SvenAltScene" FILE="D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.16-00.32.59:112][876]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.03.16-00.32.59:183][876]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/SvenAltScene508094284965874D2B588591DA5C99D9.tmp' to 'D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene.umap'
+[2021.03.16-00.32.59:190][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sven/Alt_Maps/SvenAltScene_BuiltData" FILE="D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene_BuiltData.uasset" SILENT=true
+[2021.03.16-00.32.59:288][876]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/SvenAltScene_BuiltData47BFF7584704441BD1D977AFE4A4B135.tmp' to 'D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene_BuiltData.uasset'
+[2021.03.16-00.32.59:305][876]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.16-00.32.59:305][876]LogContentValidation: Display: Validating World /Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene
+[2021.03.16-00.32.59:305][876]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Sven/Alt_Maps/SvenAltScene_BuiltData.SvenAltScene_BuiltData
+[2021.03.16-00.33.09:005][  4]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.16-00.33.09:014][  4]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.16-00.33.09:014][  4]PIE: New page: PIE session: SvenAltScene (16 Mar 2021, 10:33:09 pm)
+[2021.03.16-00.33.09:037][  4]LogPlayLevel: Creating play world package: /Game/Sven/Alt_Maps/UEDPIE_0_SvenAltScene
+[2021.03.16-00.33.09:057][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020679s)
+[2021.03.16-00.33.09:058][  4]LogAIModule: Creating AISystem for world SvenAltScene
+[2021.03.16-00.33.09:058][  4]LogPlayLevel: PIE: World Init took: (0.000927s)
+[2021.03.16-00.33.09:058][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene to /Game/Sven/Alt_Maps/UEDPIE_0_SvenAltScene.SvenAltScene (0.021777s)
+[2021.03.16-00.33.09:063][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.03.16-00.33.09:066][  4]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.03.16-00.33.09:066][  4]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.16-00.33.09:066][  4]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.16-00.33.09:066][  4]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.16-00.33.09:066][  4]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.16-00.33.09:066][  4]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.16-00.33.09:066][  4]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.16-00.33.09:066][  4]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.16-00.33.09:066][  4]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.16-00.33.09:066][  4]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.16-00.33.09:066][  4]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.16-00.33.09:073][  4]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.16-00.33.09:073][  4]LogAudioMixer: Display: 1: FrontRight
+[2021.03.16-00.33.09:087][  4]LogAudioMixer: Display: Using Audio Device Speakers (2- USB Audio Device)
+[2021.03.16-00.33.09:087][  4]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.16-00.33.09:087][  4]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.16-00.33.09:087][  4]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.16-00.33.09:088][  4]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.16-00.33.09:088][  4]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.16-00.33.09:088][  4]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.16-00.33.09:105][  4]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.16-00.33.09:105][  4]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.16-00.33.09:105][  4]LogInit: FAudioDevice initialized.
+[2021.03.16-00.33.09:105][  4]LogAudio: Display: Audio Device (ID: 4) registered with world 'SvenAltScene'.
+[2021.03.16-00.33.09:117][  4]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.16-00.33.09:120][  4]LogWorld: Bringing World /Game/Sven/Alt_Maps/UEDPIE_0_SvenAltScene.SvenAltScene up for play (max tick rate 0) at 2021.03.16-11.33.09
+[2021.03.16-00.33.09:121][  4]LogWorld: Bringing up level for play took: 0.003138
+[2021.03.16-00.33.09:121][  4]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.03.16-00.33.09:124][  4]PIE: Server logged in
+[2021.03.16-00.33.09:125][  4]PIE: Play in editor total start time 0.115 seconds.
+[2021.03.16-00.33.33:682][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.16-00.33.33:682][943]LogWorld: BeginTearingDown for /Game/Sven/Alt_Maps/UEDPIE_0_SvenAltScene
+[2021.03.16-00.33.33:682][943]LogWorld: UWorld::CleanupWorld for SvenAltScene, bSessionEnded=true, bCleanupResources=true
+[2021.03.16-00.33.33:683][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.16-00.33.33:689][943]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.16-00.33.33:700][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.16-00.33.33:706][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.16-00.33.33:706][943]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.16-00.33.33:707][943]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.16-00.33.33:726][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.03.16-00.33.33:762][944]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.03.16-00.34.08:221][187]LogActorFactory: Actor Factory created AdultCoat_a
+[2021.03.16-00.34.09:285][297]LogActorFactory: Actor Factory created AdultCoat_a
+[2021.03.16-00.34.14:340][895]Cmd: DELETE
+[2021.03.16-00.34.14:340][895]Cmd: ACTOR DELETE
+[2021.03.16-00.34.14:346][895]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.16-00.34.14:351][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.03.16-00.34.14:354][895]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.03.16-00.34.27:742][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sven/Alt_Maps/SvenAltScene" FILE="D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.16-00.34.27:747][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.03.16-00.34.27:817][638]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/SvenAltSceneAD72ED7E49B0B933B2377C9828A31212.tmp' to 'D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene.umap'
+[2021.03.16-00.34.27:824][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sven/Alt_Maps/SvenAltScene_BuiltData" FILE="D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene_BuiltData.uasset" SILENT=true
+[2021.03.16-00.34.27:923][638]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/SvenAltScene_BuiltData6FBB69C54B3F07D3C562A8BA7FB21A42.tmp' to 'D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene_BuiltData.uasset'
+[2021.03.16-00.34.27:940][638]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.16-00.34.27:940][638]LogContentValidation: Display: Validating World /Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene
+[2021.03.16-00.34.27:940][638]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Sven/Alt_Maps/SvenAltScene_BuiltData.SvenAltScene_BuiltData
+[2021.03.16-01.13.36:896][415]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.03.16-01.13.46:565][522]Cmd: TRANSACTION UNDO
+[2021.03.16-01.13.46:565][522]LogEditorTransaction: Undo Edit Z
+[2021.03.16-01.13.55:542][498]Cmd: DELETE
+[2021.03.16-01.13.55:542][498]Cmd: ACTOR DELETE
+[2021.03.16-01.13.55:553][498]LogEditorActor: Deleted Actor: Brush
+[2021.03.16-01.13.55:560][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.03.16-01.13.55:588][498]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2021.03.16-01.14.18:228][109]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.03.16-01.15.43:894][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.03.16-01.15.43:897][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sven/Alt_Maps/SvenAltScene" FILE="D:/Sven/Sven/Sven/Saved/Autosaves/Game/Sven/Alt_Maps/SvenAltScene_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.03.16-01.15.43:964][ 22]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/SvenAltScene_Auto351200F0740D409DCF59EBDB579C691CD.tmp' to 'D:/Sven/Sven/Sven/Saved/Autosaves/Game/Sven/Alt_Maps/SvenAltScene_Auto3.umap'
+[2021.03.16-01.15.43:967][ 22]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Sven/Alt_Maps/SvenAltScene' took 0.078
+[2021.03.16-01.15.43:967][ 22]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.078
+[2021.03.16-01.16.44:819][382]Cmd: TRANSACTION UNDO
+[2021.03.16-01.16.44:819][382]LogEditorTransaction: Undo Create Actors
+[2021.03.16-01.16.44:823][382]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene:PersistentLevel.ModelComponent_207' invalid (5447 verts, 0 indices).
+[2021.03.16-01.16.44:823][382]LogPhysics: Warning: Attempt to build physics data for /Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene:PersistentLevel.ModelComponent_207.BodySetup_0 when we are unable to.
+[2021.03.16-01.18.03:714][769]Cmd: TRANSACTION UNDO
+[2021.03.16-01.18.03:714][769]LogEditorTransaction: Undo Create Actors
+[2021.03.16-01.18.03:727][769]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene:PersistentLevel.ModelComponent_207' invalid (5447 verts, 0 indices).
+[2021.03.16-01.18.03:727][769]LogPhysics: Warning: Attempt to build physics data for /Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene:PersistentLevel.ModelComponent_207.BodySetup_0 when we are unable to.
+[2021.03.16-01.18.24:503][127]Cmd: TRANSACTION UNDO
+[2021.03.16-01.18.24:503][127]LogEditorTransaction: Undo Create Actors
+[2021.03.16-01.18.24:506][127]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene:PersistentLevel.ModelComponent_207' invalid (5447 verts, 0 indices).
+[2021.03.16-01.18.24:506][127]LogPhysics: Warning: Attempt to build physics data for /Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene:PersistentLevel.ModelComponent_207.BodySetup_0 when we are unable to.
+[2021.03.16-01.18.33:308][917]Cmd: TRANSACTION UNDO
+[2021.03.16-01.18.33:308][917]LogEditorTransaction: Undo Create Actors
+[2021.03.16-01.18.33:320][917]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene:PersistentLevel.ModelComponent_207' invalid (5447 verts, 0 indices).
+[2021.03.16-01.18.33:320][917]LogPhysics: Warning: Attempt to build physics data for /Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene:PersistentLevel.ModelComponent_207.BodySetup_0 when we are unable to.
+[2021.03.16-01.19.02:216][743]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.03.16-01.19.02:229][744]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.03.16-01.19.02:229][744]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.03.16-01.19.33:678][539]Cmd: TRANSACTION UNDO
+[2021.03.16-01.19.33:678][539]LogEditorTransaction: Undo Create Actors
+[2021.03.16-01.19.33:681][539]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene:PersistentLevel.ModelComponent_227' invalid (5435 verts, 0 indices).
+[2021.03.16-01.19.33:681][539]LogPhysics: Warning: Attempt to build physics data for /Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene:PersistentLevel.ModelComponent_227.BodySetup_0 when we are unable to.
+[2021.03.16-01.19.34:177][553]Cmd: TRANSACTION UNDO
+[2021.03.16-01.19.34:177][553]LogEditorTransaction: Undo Create Actors
+[2021.03.16-01.20.01:645][284]LogTexture: Display: Building textures: MonsterWater_a_N (BC5, 1024X1024)
+[2021.03.16-01.20.01:645][284]LogMaterial: Display: Missing cached shader map for material MonsterWater_a_Mat, compiling. 
+[2021.03.16-01.20.01:670][284]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 21
+[2021.03.16-01.20.01:670][284]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 18
+[2021.03.16-01.20.01:670][284]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2021.03.16-01.20.01:670][284]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.03.16-01.20.01:670][284]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.03.16-01.20.01:670][284]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.03.16-01.20.01:670][284]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.03.16-01.20.05:420][601]Cmd: TRANSACTION UNDO
+[2021.03.16-01.20.05:420][601]LogEditorTransaction: Undo Create Actors
+[2021.03.16-01.20.05:424][601]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene:PersistentLevel.ModelComponent_227' invalid (5435 verts, 0 indices).
+[2021.03.16-01.20.05:424][601]LogPhysics: Warning: Attempt to build physics data for /Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene:PersistentLevel.ModelComponent_227.BodySetup_0 when we are unable to.
+[2021.03.16-01.20.35:990][542]Cmd: TRANSACTION UNDO
+[2021.03.16-01.20.35:990][542]LogEditorTransaction: Undo Create Actors
+[2021.03.16-01.20.35:993][542]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene:PersistentLevel.ModelComponent_227' invalid (5435 verts, 0 indices).
+[2021.03.16-01.20.35:993][542]LogPhysics: Warning: Attempt to build physics data for /Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene:PersistentLevel.ModelComponent_227.BodySetup_0 when we are unable to.
+[2021.03.16-01.21.37:894][968]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/EF_MollyGreg/Materials/RowBoat_a_Mat.RowBoat_a_Mat
+[2021.03.16-01.21.43:300][464]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.16-01.21.44:715][596]LogSlate: Window 'RowBoat_a_Mat' being destroyed
+[2021.03.16-01.21.44:726][596]LogSlate: Window 'RowBoat_a_Mat' being destroyed
+[2021.03.16-01.21.44:733][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.03.16-01.21.44:751][596]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.03.16-01.21.44:757][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.03.16-01.21.44:767][596]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.03.16-01.21.44:767][596]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.16-01.21.58:276][134]Cmd: TRANSACTION UNDO
+[2021.03.16-01.21.58:276][134]LogEditorTransaction: Undo Edit ColorOverlay
+[2021.03.16-01.21.59:999][219]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/EF_MollyGreg/Materials/RowBoat_a_Mat.RowBoat_a_Mat
+[2021.03.16-01.22.03:963][557]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.16-01.22.06:307][790]LogSlate: Window 'RowBoat_a_Mat' being destroyed
+[2021.03.16-01.22.06:317][790]LogSlate: Window 'RowBoat_a_Mat' being destroyed
+[2021.03.16-01.22.06:324][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.03.16-01.22.06:333][790]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.03.16-01.22.06:340][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.03.16-01.22.06:379][790]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.03.16-01.22.06:379][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.16-01.22.49:901][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sven/Alt_Maps/SvenAltScene" FILE="D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.16-01.22.49:909][876]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.03.16-01.22.50:002][876]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/SvenAltScene18D874D1460C211A997D7E9DC2F2458F.tmp' to 'D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene.umap'
+[2021.03.16-01.22.50:016][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sven/Alt_Maps/SvenAltScene_BuiltData" FILE="D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene_BuiltData.uasset" SILENT=true
+[2021.03.16-01.22.50:120][876]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/SvenAltScene_BuiltData9B0EDB73459280DCB3F44FA3047FCBD6.tmp' to 'D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene_BuiltData.uasset'
+[2021.03.16-01.22.50:130][876]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.16-01.22.50:130][876]LogContentValidation: Display: Validating World /Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene
+[2021.03.16-01.22.50:130][876]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Sven/Alt_Maps/SvenAltScene_BuiltData.SvenAltScene_BuiltData
+[2021.03.16-01.22.50:554][918]Cmd: EDIT COPY
+[2021.03.16-01.22.52:627][165]Cmd: EDIT PASTE
+[2021.03.16-01.23.07:589][631]Cmd: TRANSACTION UNDO
+[2021.03.16-01.23.07:589][631]LogEditorTransaction: Undo Rotate Actors
+[2021.03.16-01.23.21:661][192]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush4)
+[2021.03.16-01.23.22:216][255]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush4)
+[2021.03.16-01.23.52:898][723]Cmd: MODE GRID=0
+[2021.03.16-01.24.55:413][933]Cmd: EDIT COPY
+[2021.03.16-01.24.55:737][971]Cmd: EDIT PASTE
+[2021.03.16-01.25.01:584][627]Cmd: TRANSACTION UNDO
+[2021.03.16-01.25.01:584][627]LogEditorTransaction: Undo Set Rotation
+[2021.03.16-01.25.20:938][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sven/Alt_Maps/SvenAltScene" FILE="D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.16-01.25.20:949][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.03.16-01.25.21:020][846]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/SvenAltScene59A9AFCB49578D7DDA79539E16709BFE.tmp' to 'D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene.umap'
+[2021.03.16-01.25.21:036][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sven/Alt_Maps/SvenAltScene_BuiltData" FILE="D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene_BuiltData.uasset" SILENT=true
+[2021.03.16-01.25.21:140][846]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/SvenAltScene_BuiltDataF2DD71AD4D367D4EE304C294DE4EACD0.tmp' to 'D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene_BuiltData.uasset'
+[2021.03.16-01.25.21:149][846]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.16-01.25.21:149][846]LogContentValidation: Display: Validating World /Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene
+[2021.03.16-01.25.21:149][846]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Sven/Alt_Maps/SvenAltScene_BuiltData.SvenAltScene_BuiltData
+[2021.03.16-01.26.26:507][332]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.03.16-01.27.12:344][506]Cmd: DELETE
+[2021.03.16-01.27.12:344][506]Cmd: ACTOR DELETE
+[2021.03.16-01.27.12:354][506]LogEditorActor: Deleted Actor: Brush
+[2021.03.16-01.27.12:363][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.03.16-01.27.12:388][506]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2021.03.16-01.27.16:010][914]Cmd: EDIT COPY
+[2021.03.16-01.27.16:245][941]Cmd: EDIT PASTE
+[2021.03.16-01.27.22:356][619]Cmd: TRANSACTION UNDO
+[2021.03.16-01.27.22:356][619]LogEditorTransaction: Undo Set Rotation
+[2021.03.16-01.27.55:186][290]Cmd: TRANSACTION UNDO
+[2021.03.16-01.27.55:186][290]LogEditorTransaction: Undo Edit Sides
+[2021.03.16-01.28.09:539][836]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.03.16-01.32.41:274][644]Cmd: TRANSACTION UNDO
+[2021.03.16-01.32.41:274][644]LogEditorTransaction: Undo Move Actors
+[2021.03.16-01.32.41:867][660]Cmd: TRANSACTION UNDO
+[2021.03.16-01.32.41:867][660]LogEditorTransaction: Undo Move Actors
+[2021.03.16-01.32.42:327][696]Cmd: TRANSACTION UNDO
+[2021.03.16-01.32.42:327][696]LogEditorTransaction: Undo Move Actors
+[2021.03.16-01.32.42:348][696]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene:PersistentLevel.ModelComponent_1155' invalid (5778 verts, 0 indices).
+[2021.03.16-01.32.42:348][696]LogPhysics: Warning: Attempt to build physics data for /Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene:PersistentLevel.ModelComponent_1155.BodySetup_0 when we are unable to.
+[2021.03.16-01.32.42:348][696]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene:PersistentLevel.ModelComponent_1156' invalid (5778 verts, 0 indices).
+[2021.03.16-01.32.42:348][696]LogPhysics: Warning: Attempt to build physics data for /Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene:PersistentLevel.ModelComponent_1156.BodySetup_0 when we are unable to.
+[2021.03.16-01.32.42:348][696]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene:PersistentLevel.ModelComponent_1157' invalid (5778 verts, 0 indices).
+[2021.03.16-01.32.42:348][696]LogPhysics: Warning: Attempt to build physics data for /Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene:PersistentLevel.ModelComponent_1157.BodySetup_0 when we are unable to.
+[2021.03.16-01.32.42:348][696]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene:PersistentLevel.ModelComponent_1158' invalid (5778 verts, 0 indices).
+[2021.03.16-01.32.42:348][696]LogPhysics: Warning: Attempt to build physics data for /Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene:PersistentLevel.ModelComponent_1158.BodySetup_0 when we are unable to.
+[2021.03.16-01.32.42:348][696]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene:PersistentLevel.ModelComponent_1159' invalid (5778 verts, 0 indices).
+[2021.03.16-01.32.42:348][696]LogPhysics: Warning: Attempt to build physics data for /Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene:PersistentLevel.ModelComponent_1159.BodySetup_0 when we are unable to.
+[2021.03.16-01.32.42:349][696]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene:PersistentLevel.ModelComponent_1160' invalid (5778 verts, 0 indices).
+[2021.03.16-01.32.42:349][696]LogPhysics: Warning: Attempt to build physics data for /Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene:PersistentLevel.ModelComponent_1160.BodySetup_0 when we are unable to.
+[2021.03.16-01.32.42:349][696]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene:PersistentLevel.ModelComponent_1161' invalid (5778 verts, 0 indices).
+[2021.03.16-01.32.42:349][696]LogPhysics: Warning: Attempt to build physics data for /Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene:PersistentLevel.ModelComponent_1161.BodySetup_0 when we are unable to.
+[2021.03.16-01.32.42:349][696]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene:PersistentLevel.ModelComponent_1162' invalid (5778 verts, 0 indices).
+[2021.03.16-01.32.42:349][696]LogPhysics: Warning: Attempt to build physics data for /Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene:PersistentLevel.ModelComponent_1162.BodySetup_0 when we are unable to.
+[2021.03.16-01.32.42:349][696]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene:PersistentLevel.ModelComponent_1163' invalid (5778 verts, 0 indices).
+[2021.03.16-01.32.42:349][696]LogPhysics: Warning: Attempt to build physics data for /Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene:PersistentLevel.ModelComponent_1163.BodySetup_0 when we are unable to.
+[2021.03.16-01.32.42:349][696]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene:PersistentLevel.ModelComponent_1164' invalid (5778 verts, 0 indices).
+[2021.03.16-01.32.42:349][696]LogPhysics: Warning: Attempt to build physics data for /Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene:PersistentLevel.ModelComponent_1164.BodySetup_0 when we are unable to.
+[2021.03.16-01.33.24:227][192]Cmd: TRANSACTION UNDO
+[2021.03.16-01.33.24:227][192]LogEditorTransaction: Undo Reset Rotation
+[2021.03.16-01.33.25:321][236]Cmd: TRANSACTION UNDO
+[2021.03.16-01.33.25:321][236]LogEditorTransaction: Undo Set Rotation
+[2021.03.16-01.34.08:350][877]Cmd: EDIT COPY
+[2021.03.16-01.34.08:596][892]Cmd: EDIT PASTE
+[2021.03.16-01.34.10:838][140]Cmd: EDIT COPY
+[2021.03.16-01.34.11:050][164]Cmd: EDIT PASTE
+[2021.03.16-01.34.11:892][246]Cmd: EDIT COPY
+[2021.03.16-01.34.12:111][271]Cmd: EDIT PASTE
+[2021.03.16-01.34.13:451][408]Cmd: EDIT COPY
+[2021.03.16-01.34.13:652][431]Cmd: EDIT PASTE
+[2021.03.16-01.34.15:055][575]Cmd: EDIT COPY
+[2021.03.16-01.34.15:263][598]Cmd: EDIT PASTE
+[2021.03.16-01.34.16:520][724]Cmd: TRANSACTION UNDO
+[2021.03.16-01.34.16:520][724]LogEditorTransaction: Undo Move Actors
+[2021.03.16-01.34.24:470][546]Cmd: EDIT COPY
+[2021.03.16-01.34.24:685][570]Cmd: EDIT PASTE
+[2021.03.16-01.34.30:618][176]Cmd: TRANSACTION UNDO
+[2021.03.16-01.34.30:618][176]LogEditorTransaction: Undo Select Brush Surface
+[2021.03.16-01.34.31:163][191]Cmd: TRANSACTION UNDO
+[2021.03.16-01.34.31:163][191]LogEditorTransaction: Undo Select Surfaces
+[2021.03.16-01.34.35:788][680]Cmd: EDIT COPY
+[2021.03.16-01.34.36:160][716]Cmd: EDIT PASTE
+[2021.03.16-01.34.37:871][896]Cmd: EDIT COPY
+[2021.03.16-01.34.38:226][937]Cmd: EDIT PASTE
+[2021.03.16-01.34.40:087][132]Cmd: EDIT COPY
+[2021.03.16-01.34.40:615][194]Cmd: EDIT PASTE
+[2021.03.16-01.34.47:789][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sven/Alt_Maps/SvenAltScene" FILE="D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.16-01.34.47:814][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2021.03.16-01.34.47:944][852]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/SvenAltSceneF25B3C694BDBD9DB8596C5AE7341C751.tmp' to 'D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene.umap'
+[2021.03.16-01.34.47:966][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sven/Alt_Maps/SvenAltScene_BuiltData" FILE="D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene_BuiltData.uasset" SILENT=true
+[2021.03.16-01.34.48:077][852]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/SvenAltScene_BuiltData0501F0BA429532D35F9CE5996DFABDC5.tmp' to 'D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene_BuiltData.uasset'
+[2021.03.16-01.34.48:101][852]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.16-01.34.48:101][852]LogContentValidation: Display: Validating World /Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene
+[2021.03.16-01.34.48:101][852]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Sven/Alt_Maps/SvenAltScene_BuiltData.SvenAltScene_BuiltData
+[2021.03.16-01.36.14:887][270]LogActorFactory: Actor Factory created AdultCoat_a
+[2021.03.16-01.36.16:784][470]LogActorFactory: Actor Factory created AdultCoat_a
+[2021.03.16-01.37.24:869][912]LogActorFactory: Actor Factory created Slipper_a
+[2021.03.16-01.37.26:388][ 56]LogActorFactory: Actor Factory created Slipper_a
+[2021.03.16-01.37.29:077][330]Cmd: EDIT COPY
+[2021.03.16-01.37.29:364][362]Cmd: EDIT PASTE
+[2021.03.16-01.37.33:421][728]LogActorFactory: Actor Factory created Shoe
+[2021.03.16-01.37.34:558][822]LogActorFactory: Actor Factory created Shoe
+[2021.03.16-01.37.37:849][132]Cmd: EDIT COPY
+[2021.03.16-01.37.38:063][154]Cmd: EDIT PASTE
+[2021.03.16-01.37.40:229][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sven/Alt_Maps/SvenAltScene" FILE="D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.16-01.37.40:240][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.03.16-01.37.40:361][378]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/SvenAltScene5C01BB6042FBD1888E1ABBAEAEA23D19.tmp' to 'D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene.umap'
+[2021.03.16-01.37.40:369][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sven/Alt_Maps/SvenAltScene_BuiltData" FILE="D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene_BuiltData.uasset" SILENT=true
+[2021.03.16-01.37.40:469][378]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/SvenAltScene_BuiltData883AD49B4955323B3FB27385D965196B.tmp' to 'D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene_BuiltData.uasset'
+[2021.03.16-01.37.40:486][378]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.16-01.37.40:486][378]LogContentValidation: Display: Validating World /Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene
+[2021.03.16-01.37.40:486][378]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Sven/Alt_Maps/SvenAltScene_BuiltData.SvenAltScene_BuiltData
+[2021.03.16-01.39.22:706][325]LogActorFactory: Actor Factory created Sandals
+[2021.03.16-01.39.24:043][434]LogActorFactory: Actor Factory created Sandals
+[2021.03.16-01.39.36:382][423]LogActorFactory: Actor Factory created RainBootsAdult_a
+[2021.03.16-01.39.38:858][646]LogActorFactory: Actor Factory created RainBootsAdult_a
+[2021.03.16-01.39.48:556][595]Cmd: EDIT COPY
+[2021.03.16-01.39.48:793][607]Cmd: EDIT PASTE
+[2021.03.16-01.39.52:238][916]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (RainBootsAdult_a)
+[2021.03.16-01.40.00:083][519]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Slipper_a)
+[2021.03.16-01.40.00:544][559]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Slipper_a2)
+[2021.03.16-01.40.01:002][603]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Shoe)
+[2021.03.16-01.40.02:595][739]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Shoe2)
+[2021.03.16-01.40.03:229][792]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sandals)
+[2021.03.16-01.40.05:205][967]Cmd: EDIT COPY
+[2021.03.16-01.40.05:426][977]Cmd: EDIT PASTE
+[2021.03.16-01.40.07:957][163]Cmd: EDIT COPY
+[2021.03.16-01.40.08:192][182]Cmd: EDIT PASTE
+[2021.03.16-01.40.09:804][284]Cmd: EDIT COPY
+[2021.03.16-01.40.10:037][301]Cmd: EDIT PASTE
+[2021.03.16-01.40.12:201][428]Cmd: EDIT COPY
+[2021.03.16-01.40.12:500][443]Cmd: EDIT PASTE
+[2021.03.16-01.40.17:279][721]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sandals4)
+[2021.03.16-01.40.18:095][771]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Shoe8)
+[2021.03.16-01.40.18:637][804]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Slipper_a8)
+[2021.03.16-01.40.19:500][857]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Slipper_a7)
+[2021.03.16-01.40.19:915][880]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sandals3)
+[2021.03.16-01.40.20:883][940]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Shoe6)
+[2021.03.16-01.40.21:446][975]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Slipper_a6)
+[2021.03.16-01.40.21:899][  2]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sandals2)
+[2021.03.16-01.40.22:248][ 22]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Shoe4)
+[2021.03.16-01.40.22:840][ 56]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Shoe3)
+[2021.03.16-01.40.23:479][ 96]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Slipper_a3)
+[2021.03.16-01.40.24:185][138]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Slipper_a4)
+[2021.03.16-01.40.28:163][414]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sandals)
+[2021.03.16-01.40.28:505][444]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Shoe2)
+[2021.03.16-01.40.28:892][478]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Shoe)
+[2021.03.16-01.40.29:345][520]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Slipper_a2)
+[2021.03.16-01.40.29:855][568]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Slipper_a)
+[2021.03.16-01.40.30:674][646]Cmd: EDIT COPY
+[2021.03.16-01.40.30:992][677]Cmd: EDIT PASTE
+[2021.03.16-01.40.46:246][400]Cmd: MODE GRID=1
+[2021.03.16-01.41.07:765][809]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shoe6)
+[2021.03.16-01.41.08:199][834]Cmd: EDIT COPY
+[2021.03.16-01.41.08:475][851]Cmd: EDIT PASTE
+[2021.03.16-01.41.14:776][180]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shoe7)
+[2021.03.16-01.41.15:156][202]Cmd: EDIT COPY
+[2021.03.16-01.41.15:406][217]Cmd: EDIT PASTE
+[2021.03.16-01.41.23:697][732]Cmd: DELETE
+[2021.03.16-01.41.23:697][732]Cmd: ACTOR DELETE
+[2021.03.16-01.41.23:708][732]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.16-01.41.23:719][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.03.16-01.41.23:724][732]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2021.03.16-01.41.24:442][772]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Slipper_a5)
+[2021.03.16-01.41.25:503][825]Cmd: EDIT COPY
+[2021.03.16-01.41.25:833][842]Cmd: EDIT PASTE
+[2021.03.16-01.41.32:484][218]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sandals)
+[2021.03.16-01.41.33:014][251]Cmd: EDIT COPY
+[2021.03.16-01.41.33:257][267]Cmd: EDIT PASTE
+[2021.03.16-01.41.41:733][868]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shoe4)
+[2021.03.16-01.41.42:013][884]Cmd: EDIT COPY
+[2021.03.16-01.41.42:283][902]Cmd: EDIT PASTE
+[2021.03.16-01.41.48:963][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sven/Alt_Maps/SvenAltScene" FILE="D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.16-01.41.48:969][329]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.03.16-01.41.49:092][329]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/SvenAltScene18B2DC354F8CAF692B22249ED78E02EE.tmp' to 'D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene.umap'
+[2021.03.16-01.41.49:100][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sven/Alt_Maps/SvenAltScene_BuiltData" FILE="D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene_BuiltData.uasset" SILENT=true
+[2021.03.16-01.41.49:199][329]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/SvenAltScene_BuiltDataCF1C5234405C98E99974A68423C4D047.tmp' to 'D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene_BuiltData.uasset'
+[2021.03.16-01.41.49:240][329]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.16-01.41.49:240][329]LogContentValidation: Display: Validating World /Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene
+[2021.03.16-01.41.49:241][329]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Sven/Alt_Maps/SvenAltScene_BuiltData.SvenAltScene_BuiltData
+[2021.03.16-01.42.00:492][ 24]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RainBootsAdult_a)
+[2021.03.16-01.42.01:274][ 75]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (RainBootsAdult_a2)
+[2021.03.16-01.42.02:034][128]Cmd: EDIT COPY
+[2021.03.16-01.42.02:261][144]Cmd: EDIT PASTE
+[2021.03.16-01.42.03:549][228]Cmd: EDIT COPY
+[2021.03.16-01.42.03:791][244]Cmd: EDIT PASTE
+[2021.03.16-01.42.05:995][369]Cmd: EDIT COPY
+[2021.03.16-01.42.06:243][378]Cmd: EDIT PASTE
+[2021.03.16-01.42.08:017][470]Cmd: EDIT COPY
+[2021.03.16-01.42.08:253][483]Cmd: EDIT PASTE
+[2021.03.16-01.42.40:994][252]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (RainBootsAdult_a8)
+[2021.03.16-01.42.42:315][329]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (RainBootsAdult_a7)
+[2021.03.16-01.42.42:854][358]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (RainBootsAdult_a6)
+[2021.03.16-01.42.43:375][387]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (RainBootsAdult_a5)
+[2021.03.16-01.42.43:820][412]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (RainBootsAdult_a4)
+[2021.03.16-01.42.44:237][435]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (RainBootsAdult_a3)
+[2021.03.16-01.42.45:004][478]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (RainBootsAdult_a2)
+[2021.03.16-01.42.45:432][501]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (RainBootsAdult_a)
+[2021.03.16-01.42.48:243][620]Cmd: EDIT COPY
+[2021.03.16-01.42.48:493][630]Cmd: EDIT PASTE
+[2021.03.16-01.43.07:321][466]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AdultCoat_a)
+[2021.03.16-01.43.07:677][484]Cmd: EDIT COPY
+[2021.03.16-01.43.07:983][503]Cmd: EDIT PASTE
+[2021.03.16-01.43.09:647][605]Cmd: EDIT COPY
+[2021.03.16-01.43.09:882][619]Cmd: EDIT PASTE
+[2021.03.16-01.43.12:658][783]Cmd: EDIT COPY
+[2021.03.16-01.43.12:878][790]Cmd: EDIT PASTE
+[2021.03.16-01.43.16:813][976]Cmd: EDIT COPY
+[2021.03.16-01.43.17:073][988]Cmd: EDIT PASTE
+[2021.03.16-01.43.19:539][ 98]Cmd: EDIT COPY
+[2021.03.16-01.43.19:830][108]Cmd: EDIT PASTE
+[2021.03.16-01.43.28:239][592]Cmd: EDIT COPY
+[2021.03.16-01.43.28:501][602]Cmd: EDIT PASTE
+[2021.03.16-01.43.38:721][485]Cmd: EDIT COPY
+[2021.03.16-01.43.38:969][509]Cmd: EDIT PASTE
+[2021.03.16-01.43.41:362][720]Cmd: EDIT COPY
+[2021.03.16-01.43.41:606][733]Cmd: EDIT PASTE
+[2021.03.16-01.43.44:087][926]Cmd: EDIT COPY
+[2021.03.16-01.43.44:391][939]Cmd: EDIT PASTE
+[2021.03.16-01.43.55:428][554]LogActorFactory: Actor Factory created MiltonRoomBed_a
+[2021.03.16-01.43.56:865][632]LogActorFactory: Actor Factory created MiltonRoomBed_a
+[2021.03.16-01.44.03:212][942]Cmd: DELETE
+[2021.03.16-01.44.03:212][942]Cmd: ACTOR DELETE
+[2021.03.16-01.44.03:222][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.16-01.44.03:234][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.03.16-01.44.03:238][942]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2021.03.16-01.44.06:373][ 77]LogTexture: Display: Building textures: Mattress_a_c (AutoDXT, 512X512)
+[2021.03.16-01.44.06:373][ 77]LogStaticMesh: Building static mesh MiltonRoomBedQuilt_a...
+[2021.03.16-01.44.06:395][ 77]LogStaticMesh: Built static mesh [0.02s] /Game/EF_Edith/Meshes/MiltonRoomBedQuilt_a.MiltonRoomBedQuilt_a
+[2021.03.16-01.44.06:428][ 77]LogActorFactory: Actor Factory created MiltonRoomBedQuilt_a
+[2021.03.16-01.44.07:464][116]LogActorFactory: Actor Factory created MiltonRoomBedQuilt_a
+[2021.03.16-01.44.26:962][232]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sven/Alt_Maps/SvenAltScene" FILE="D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.16-01.44.26:968][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.03.16-01.44.27:098][232]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/SvenAltScene061F12234F3899F05FB44FBD48A033A8.tmp' to 'D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene.umap'
+[2021.03.16-01.44.27:106][232]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sven/Alt_Maps/SvenAltScene_BuiltData" FILE="D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene_BuiltData.uasset" SILENT=true
+[2021.03.16-01.44.27:203][232]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/SvenAltScene_BuiltData0B75CEDC4FB0067DC1C4578A1E393707.tmp' to 'D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene_BuiltData.uasset'
+[2021.03.16-01.44.27:218][232]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.16-01.44.27:218][232]LogContentValidation: Display: Validating World /Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene
+[2021.03.16-01.44.27:218][232]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Sven/Alt_Maps/SvenAltScene_BuiltData.SvenAltScene_BuiltData
+[2021.03.16-01.44.30:478][417]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.16-01.44.30:488][417]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.16-01.44.30:488][417]PIE: New page: PIE session: SvenAltScene (16 Mar 2021, 11:44:30 pm)
+[2021.03.16-01.44.30:488][417]LogPlayLevel: Creating play world package: /Game/Sven/Alt_Maps/UEDPIE_0_SvenAltScene
+[2021.03.16-01.44.30:528][417]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039958s)
+[2021.03.16-01.44.30:529][417]LogAIModule: Creating AISystem for world SvenAltScene
+[2021.03.16-01.44.30:529][417]LogPlayLevel: PIE: World Init took: (0.000981s)
+[2021.03.16-01.44.30:529][417]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene to /Game/Sven/Alt_Maps/UEDPIE_0_SvenAltScene.SvenAltScene (0.041101s)
+[2021.03.16-01.44.30:535][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.03.16-01.44.30:538][417]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.03.16-01.44.30:538][417]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.16-01.44.30:538][417]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.16-01.44.30:538][417]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.16-01.44.30:538][417]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.16-01.44.30:538][417]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.16-01.44.30:538][417]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.16-01.44.30:538][417]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.16-01.44.30:538][417]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.16-01.44.30:539][417]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.16-01.44.30:539][417]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.16-01.44.30:545][417]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.16-01.44.30:545][417]LogAudioMixer: Display: 1: FrontRight
+[2021.03.16-01.44.30:560][417]LogAudioMixer: Display: Using Audio Device Speakers (2- USB Audio Device)
+[2021.03.16-01.44.30:560][417]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.16-01.44.30:560][417]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.16-01.44.30:560][417]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.16-01.44.30:561][417]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.16-01.44.30:561][417]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.16-01.44.30:561][417]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.16-01.44.30:561][417]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.16-01.44.30:561][417]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.16-01.44.30:561][417]LogInit: FAudioDevice initialized.
+[2021.03.16-01.44.30:561][417]LogAudio: Display: Audio Device (ID: 5) registered with world 'SvenAltScene'.
+[2021.03.16-01.44.30:584][417]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.16-01.44.30:590][417]LogWorld: Bringing World /Game/Sven/Alt_Maps/UEDPIE_0_SvenAltScene.SvenAltScene up for play (max tick rate 0) at 2021.03.16-12.44.30
+[2021.03.16-01.44.30:590][417]LogWorld: Bringing up level for play took: 0.005088
+[2021.03.16-01.44.30:590][417]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.03.16-01.44.30:594][417]PIE: Server logged in
+[2021.03.16-01.44.30:594][417]PIE: Play in editor total start time 0.112 seconds.
+[2021.03.16-01.44.46:587][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.16-01.44.46:587][654]LogWorld: BeginTearingDown for /Game/Sven/Alt_Maps/UEDPIE_0_SvenAltScene
+[2021.03.16-01.44.46:587][654]LogWorld: UWorld::CleanupWorld for SvenAltScene, bSessionEnded=true, bCleanupResources=true
+[2021.03.16-01.44.46:588][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.16-01.44.46:597][654]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.16-01.44.46:610][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.16-01.44.46:615][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.16-01.44.46:616][654]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.16-01.44.46:617][654]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.16-01.44.46:637][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.03.16-01.44.46:675][655]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.03.16-01.45.04:428][820]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BathTowelHanging_a10)
+[2021.03.16-01.45.05:017][886]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BathTowelHanging_a7)
+[2021.03.16-01.45.05:463][935]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BathTowelHanging_a4)
+[2021.03.16-01.45.05:979][993]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BathTowelHanging_a3)
+[2021.03.16-01.45.06:460][ 46]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BathTowelHanging_a6)
+[2021.03.16-01.45.06:823][ 85]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BathTowelHanging_a9)
+[2021.03.16-01.45.07:209][127]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BathTowelHanging_a8)
+[2021.03.16-01.45.07:552][164]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BathTowelHanging_a5)
+[2021.03.16-01.45.07:872][198]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BathTowelHanging_a2)
+[2021.03.16-01.45.08:540][274]Cmd: EDIT COPY
+[2021.03.16-01.45.09:015][330]Cmd: EDIT PASTE
+[2021.03.16-01.45.31:206][724]Cmd: TRANSACTION UNDO
+[2021.03.16-01.45.31:206][724]LogEditorTransaction: Undo Set Rotation
+[2021.03.16-01.45.51:478][987]Cmd: EDIT COPY
+[2021.03.16-01.45.51:720][  4]Cmd: EDIT PASTE
+[2021.03.16-01.45.55:596][213]Cmd: EDIT COPY
+[2021.03.16-01.45.55:852][229]Cmd: EDIT PASTE
+[2021.03.16-01.46.02:518][484]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BathTowelHanging_a35)
+[2021.03.16-01.46.02:910][500]Cmd: EDIT COPY
+[2021.03.16-01.46.03:185][512]Cmd: EDIT PASTE
+[2021.03.16-01.46.05:184][602]Cmd: TRANSACTION UNDO
+[2021.03.16-01.46.05:184][602]LogEditorTransaction: Undo Move Actors
+[2021.03.16-01.46.05:993][629]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BathTowelHanging_a38)
+[2021.03.16-01.46.06:561][653]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BathTowelHanging_a36)
+[2021.03.16-01.46.07:048][674]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BathTowelHanging_a37)
+[2021.03.16-01.46.07:643][700]Cmd: EDIT COPY
+[2021.03.16-01.46.07:876][710]Cmd: EDIT PASTE
+[2021.03.16-01.46.13:695][  2]Cmd: EDIT COPY
+[2021.03.16-01.46.13:949][ 17]Cmd: EDIT PASTE
+[2021.03.16-01.46.16:942][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sven/Alt_Maps/SvenAltScene" FILE="D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.16-01.46.16:948][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.03.16-01.46.17:080][145]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/SvenAltScene3C48269E4ACBF61EB977CBAFABB12AAF.tmp' to 'D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene.umap'
+[2021.03.16-01.46.17:088][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sven/Alt_Maps/SvenAltScene_BuiltData" FILE="D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene_BuiltData.uasset" SILENT=true
+[2021.03.16-01.46.17:186][145]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/SvenAltScene_BuiltData40D04869436A722C88DC5E988EAAFDB4.tmp' to 'D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene_BuiltData.uasset'
+[2021.03.16-01.46.17:202][145]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.16-01.46.17:202][145]LogContentValidation: Display: Validating World /Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene
+[2021.03.16-01.46.17:202][145]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Sven/Alt_Maps/SvenAltScene_BuiltData.SvenAltScene_BuiltData
+[2021.03.16-01.46.42:258][254]LogActorFactory: Actor Factory created SM_BS_DeskPlants_02
+[2021.03.16-01.46.43:152][345]LogActorFactory: Actor Factory created SM_BS_DeskPlants_02
+[2021.03.16-01.47.35:953][278]LogActorFactory: Actor Factory created faucet_a
+[2021.03.16-01.47.36:537][338]LogActorFactory: Actor Factory created faucet_a
+[2021.03.16-01.47.46:475][432]LogActorFactory: Actor Factory created FaucetHandle_a
+[2021.03.16-01.47.49:170][741]LogActorFactory: Actor Factory created FaucetHandle_a
+[2021.03.16-01.47.55:779][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sven/Alt_Maps/SvenAltScene" FILE="D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.16-01.47.55:784][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.03.16-01.47.55:916][488]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/SvenAltScene6F8AE28B4799179403F229B52EBA7F0C.tmp' to 'D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene.umap'
+[2021.03.16-01.47.55:924][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sven/Alt_Maps/SvenAltScene_BuiltData" FILE="D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene_BuiltData.uasset" SILENT=true
+[2021.03.16-01.47.56:022][488]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/SvenAltScene_BuiltDataB744982F41612B2A751CE69A7F8740F5.tmp' to 'D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene_BuiltData.uasset'
+[2021.03.16-01.47.56:071][488]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.16-01.47.56:071][488]LogContentValidation: Display: Validating World /Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene
+[2021.03.16-01.47.56:071][488]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Sven/Alt_Maps/SvenAltScene_BuiltData.SvenAltScene_BuiltData
+[2021.03.16-01.48.01:024][ 19]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (faucet_a)
+[2021.03.16-01.48.01:967][127]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FaucetHandle_a)
+[2021.03.16-01.48.42:147][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sven/Alt_Maps/SvenAltScene" FILE="D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.16-01.48.42:152][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.03.16-01.48.42:287][303]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/SvenAltSceneA02CA1244A9091D92FFEE4BBE95669F8.tmp' to 'D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene.umap'
+[2021.03.16-01.48.42:294][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sven/Alt_Maps/SvenAltScene_BuiltData" FILE="D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene_BuiltData.uasset" SILENT=true
+[2021.03.16-01.48.42:395][303]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/SvenAltScene_BuiltDataA5D419A14D97FF06EDDEFFA1CE000A4A.tmp' to 'D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene_BuiltData.uasset'
+[2021.03.16-01.48.42:410][303]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.16-01.48.42:410][303]LogContentValidation: Display: Validating World /Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene
+[2021.03.16-01.48.42:410][303]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Sven/Alt_Maps/SvenAltScene_BuiltData.SvenAltScene_BuiltData
+[2021.03.16-01.49.17:482][378]LogStaticMesh: Building static mesh DawnPictureFrame_a...
+[2021.03.16-01.49.17:576][378]LogStaticMesh: Built static mesh [0.09s] /Game/EF_Edith/Meshes/DawnPictureFrame_a.DawnPictureFrame_a
+[2021.03.16-01.49.17:595][378]LogActorFactory: Actor Factory created DawnPictureFrame_a
+[2021.03.16-01.49.19:191][478]LogActorFactory: Actor Factory created DawnPictureFrame_a
+[2021.03.16-01.49.40:105][326]LogStaticMesh: Building static mesh DawnPictureFrameOval_a...
+[2021.03.16-01.49.40:155][326]LogStaticMesh: Built static mesh [0.05s] /Game/EF_Edith/Meshes/DawnPictureFrameOval_a.DawnPictureFrameOval_a
+[2021.03.16-01.49.40:216][329]LogActorFactory: Actor Factory created DawnPictureFrameOval_a
+[2021.03.16-01.49.40:949][385]LogActorFactory: Actor Factory created DawnPictureFrameOval_a
+[2021.03.16-01.49.57:088][689]LogStaticMesh: Building static mesh PictureFramePrayer_a...
+[2021.03.16-01.49.57:090][689]LogTexture: Display: Building textures: PictureFramePrayer_a_c (AutoDXT, 256X256)
+[2021.03.16-01.49.57:144][689]LogStaticMesh: Built static mesh [0.06s] /Game/EF_Edith/Meshes/PictureFramePrayer_a.PictureFramePrayer_a
+[2021.03.16-01.49.57:203][691]LogActorFactory: Actor Factory created PictureFramePrayer_a
+[2021.03.16-01.49.58:011][740]LogActorFactory: Actor Factory created PictureFramePrayer_a
+[2021.03.16-01.50.30:422][513]LogStaticMesh: Building static mesh DawnPictureFrameLarge_a...
+[2021.03.16-01.50.30:479][513]LogStaticMesh: Built static mesh [0.06s] /Game/EF_Edith/Meshes/DawnPictureFrameLarge_a.DawnPictureFrameLarge_a
+[2021.03.16-01.50.30:553][517]LogActorFactory: Actor Factory created DawnPictureFrameLarge_a
+[2021.03.16-01.50.31:433][573]LogActorFactory: Actor Factory created DawnPictureFrameLarge_a
+[2021.03.16-01.50.54:044][312]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DawnPictureFrameOval_a)
+[2021.03.16-01.50.54:932][394]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (PictureFramePrayer_a)
+[2021.03.16-01.50.55:537][445]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (DawnPictureFrame_a)
+[2021.03.16-01.50.56:246][507]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (DawnPictureFrameLarge_a)
+[2021.03.16-01.50.59:734][757]Cmd: EDIT COPY
+[2021.03.16-01.50.59:989][771]Cmd: EDIT PASTE
+[2021.03.16-01.51.04:672][ 96]Cmd: EDIT COPY
+[2021.03.16-01.51.04:909][105]Cmd: EDIT PASTE
+[2021.03.16-01.51.14:065][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sven/Alt_Maps/SvenAltScene" FILE="D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.16-01.51.14:070][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.03.16-01.51.14:203][905]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/SvenAltScene569268E2411A4D19C08BE18A966994F6.tmp' to 'D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene.umap'
+[2021.03.16-01.51.14:211][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sven/Alt_Maps/SvenAltScene_BuiltData" FILE="D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene_BuiltData.uasset" SILENT=true
+[2021.03.16-01.51.14:316][905]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/SvenAltScene_BuiltDataD7D0FE1E44BC6244C5FE6189D87928D5.tmp' to 'D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene_BuiltData.uasset'
+[2021.03.16-01.51.14:332][905]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.16-01.51.14:332][905]LogContentValidation: Display: Validating World /Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene
+[2021.03.16-01.51.14:332][905]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Sven/Alt_Maps/SvenAltScene_BuiltData.SvenAltScene_BuiltData
+[2021.03.16-01.52.07:136][182]LogActorFactory: Actor Factory created bookshelf_a
+[2021.03.16-01.52.08:710][333]LogActorFactory: Actor Factory created bookshelf_a
+[2021.03.16-01.52.32:961][825]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/EF_MollyGreg/Materials/WallShelfInset_a_Mat.WallShelfInset_a_Mat
+[2021.03.16-01.52.43:298][868]LogSlate: Window 'WallShelfInset_a_Mat' being destroyed
+[2021.03.16-01.52.43:307][868]LogSlate: Window 'WallShelfInset_a_Mat' being destroyed
+[2021.03.16-01.52.43:335][868]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.03.16-01.52.43:335][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.16-01.53.20:390][ 68]LogTexture: Display: Building textures: ShelfWoodTrim_a_r (BC4, 512X256)
+[2021.03.16-01.53.20:390][ 68]LogTexture: Display: Building textures: ShelfWoodTrim_a_c (AutoDXT, 512X256)
+[2021.03.16-01.53.20:390][ 68]LogTexture: Display: Building textures: ShelfWoodTrim_a_n (BC5, 512X256)
+[2021.03.16-01.53.39:683][874]Cmd: EDIT COPY
+[2021.03.16-01.53.39:997][898]Cmd: EDIT PASTE
+[2021.03.16-01.53.43:364][292]Cmd: EDIT COPY
+[2021.03.16-01.53.43:591][318]Cmd: EDIT PASTE
+[2021.03.16-01.53.45:797][574]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bookshelf_a2)
+[2021.03.16-01.53.46:543][659]Cmd: DELETE
+[2021.03.16-01.53.46:543][659]Cmd: ACTOR DELETE
+[2021.03.16-01.53.46:553][659]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.16-01.53.46:559][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.03.16-01.53.46:565][659]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2021.03.16-01.54.10:036][960]LogActorFactory: Actor Factory created TwinsBook_a
+[2021.03.16-01.54.11:561][119]LogActorFactory: Actor Factory created TwinsBook_a
+[2021.03.16-01.54.20:774][109]Cmd: EDIT COPY
+[2021.03.16-01.54.21:414][185]Cmd: EDIT PASTE
+[2021.03.16-01.54.23:439][421]Cmd: EDIT COPY
+[2021.03.16-01.54.23:688][451]Cmd: EDIT PASTE
+[2021.03.16-01.54.25:139][618]Cmd: EDIT COPY
+[2021.03.16-01.54.25:346][642]Cmd: EDIT PASTE
+[2021.03.16-01.54.26:544][778]Cmd: EDIT COPY
+[2021.03.16-01.54.26:743][801]Cmd: EDIT PASTE
+[2021.03.16-01.54.29:459][119]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a5)
+[2021.03.16-01.54.30:037][184]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a4)
+[2021.03.16-01.54.30:422][226]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a3)
+[2021.03.16-01.54.30:816][269]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a2)
+[2021.03.16-01.54.31:478][344]Cmd: EDIT COPY
+[2021.03.16-01.54.31:737][374]Cmd: EDIT PASTE
+[2021.03.16-01.54.34:213][633]Cmd: EDIT COPY
+[2021.03.16-01.54.34:427][656]Cmd: EDIT PASTE
+[2021.03.16-01.54.35:384][738]Cmd: EDIT COPY
+[2021.03.16-01.54.35:647][762]Cmd: EDIT PASTE
+[2021.03.16-01.54.36:883][860]Cmd: EDIT COPY
+[2021.03.16-01.54.37:112][879]Cmd: EDIT PASTE
+[2021.03.16-01.54.41:065][178]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TwinsBook_a20)
+[2021.03.16-01.54.42:109][260]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TwinsBook_a26)
+[2021.03.16-01.54.43:182][342]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a25)
+[2021.03.16-01.54.43:690][380]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a24)
+[2021.03.16-01.54.44:051][406]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a23)
+[2021.03.16-01.54.44:525][441]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a22)
+[2021.03.16-01.54.45:047][480]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a17)
+[2021.03.16-01.54.45:430][507]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a18)
+[2021.03.16-01.54.46:149][562]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a19)
+[2021.03.16-01.54.46:618][596]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a20)
+[2021.03.16-01.54.46:933][619]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a21)
+[2021.03.16-01.54.47:283][645]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a16)
+[2021.03.16-01.54.47:703][676]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a15)
+[2021.03.16-01.54.48:254][716]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a14)
+[2021.03.16-01.54.48:909][766]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a13)
+[2021.03.16-01.54.49:283][794]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a12)
+[2021.03.16-01.54.49:890][840]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a7)
+[2021.03.16-01.54.50:263][866]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a8)
+[2021.03.16-01.54.50:819][908]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a9)
+[2021.03.16-01.54.51:133][931]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a10)
+[2021.03.16-01.54.51:441][953]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a11)
+[2021.03.16-01.54.52:482][ 30]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a6)
+[2021.03.16-01.54.52:948][ 64]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a5)
+[2021.03.16-01.54.53:574][111]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a4)
+[2021.03.16-01.54.55:009][221]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a11)
+[2021.03.16-01.54.56:232][314]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a10)
+[2021.03.16-01.54.57:087][379]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a3)
+[2021.03.16-01.54.57:687][424]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a2)
+[2021.03.16-01.54.58:134][457]Cmd: EDIT COPY
+[2021.03.16-01.54.58:383][476]Cmd: EDIT PASTE
+[2021.03.16-01.55.03:963][741]Cmd: EDIT COPY
+[2021.03.16-01.55.04:164][751]Cmd: EDIT PASTE
+[2021.03.16-01.55.10:498][981]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a47)
+[2021.03.16-01.55.10:977][999]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a48)
+[2021.03.16-01.55.11:403][ 15]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a49)
+[2021.03.16-01.55.11:817][ 30]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a50)
+[2021.03.16-01.55.12:202][ 44]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a51)
+[2021.03.16-01.55.12:566][ 56]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a46)
+[2021.03.16-01.55.13:361][ 86]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a45)
+[2021.03.16-01.55.13:823][103]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a44)
+[2021.03.16-01.55.14:612][134]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a43)
+[2021.03.16-01.55.15:065][151]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a42)
+[2021.03.16-01.55.15:851][181]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a37)
+[2021.03.16-01.55.16:542][207]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a38)
+[2021.03.16-01.55.17:011][224]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a39)
+[2021.03.16-01.55.17:371][237]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a40)
+[2021.03.16-01.55.17:701][248]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a41)
+[2021.03.16-01.55.18:145][265]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a36)
+[2021.03.16-01.55.18:596][282]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a35)
+[2021.03.16-01.55.19:559][319]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a34)
+[2021.03.16-01.55.20:098][339]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a33)
+[2021.03.16-01.55.20:585][357]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a32)
+[2021.03.16-01.55.21:344][386]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a27)
+[2021.03.16-01.55.21:997][411]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a28)
+[2021.03.16-01.55.22:475][429]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a29)
+[2021.03.16-01.55.22:869][443]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a30)
+[2021.03.16-01.55.23:252][457]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a31)
+[2021.03.16-01.55.24:957][523]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a22)
+[2021.03.16-01.55.25:570][547]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a23)
+[2021.03.16-01.55.26:019][564]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a24)
+[2021.03.16-01.55.26:472][581]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a25)
+[2021.03.16-01.55.26:751][591]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a26)
+[2021.03.16-01.55.27:055][601]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a21)
+[2021.03.16-01.55.27:921][633]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a20)
+[2021.03.16-01.55.28:599][660]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a19)
+[2021.03.16-01.55.29:193][683]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a18)
+[2021.03.16-01.55.29:700][702]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a17)
+[2021.03.16-01.55.30:329][726]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a12)
+[2021.03.16-01.55.30:815][744]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a13)
+[2021.03.16-01.55.31:377][765]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a14)
+[2021.03.16-01.55.31:851][783]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a15)
+[2021.03.16-01.55.32:157][794]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a16)
+[2021.03.16-01.55.32:485][806]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a11)
+[2021.03.16-01.55.33:176][832]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a10)
+[2021.03.16-01.55.33:600][848]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a9)
+[2021.03.16-01.55.34:036][864]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a8)
+[2021.03.16-01.55.34:449][879]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a7)
+[2021.03.16-01.55.35:121][904]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a2)
+[2021.03.16-01.55.35:573][921]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a3)
+[2021.03.16-01.55.36:017][938]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a4)
+[2021.03.16-01.55.36:378][951]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a5)
+[2021.03.16-01.55.36:653][961]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TwinsBook_a6)
+[2021.03.16-01.55.37:813][  4]Cmd: EDIT COPY
+[2021.03.16-01.55.38:043][ 12]Cmd: EDIT PASTE
+[2021.03.16-01.56.09:892][111]LogActorFactory: Actor Factory created MollyCurtains
+[2021.03.16-01.56.10:941][185]LogActorFactory: Actor Factory created MollyCurtains
+[2021.03.16-01.56.30:441][343]Cmd: EDIT COPY
+[2021.03.16-01.56.30:676][370]Cmd: EDIT PASTE
+[2021.03.16-01.56.37:116][ 68]LogMaterial: Display: Missing cached shader map for material curtains_kitchen_a_Mat1, compiling. 
+[2021.03.16-01.56.37:134][ 68]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 43
+[2021.03.16-01.56.37:134][ 68]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 37
+[2021.03.16-01.56.37:134][ 68]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 31
+[2021.03.16-01.56.37:134][ 68]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 25
+[2021.03.16-01.56.37:134][ 68]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 19
+[2021.03.16-01.56.37:134][ 68]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.03.16-01.56.37:134][ 68]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.03.16-01.56.37:134][ 68]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.03.16-01.56.48:704][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sven/Alt_Maps/SvenAltScene" FILE="D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.16-01.56.48:710][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.03.16-01.56.48:881][947]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/SvenAltSceneA47C172349464B17D94B0EA3E3B8DABC.tmp' to 'D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene.umap'
+[2021.03.16-01.56.48:890][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sven/Alt_Maps/SvenAltScene_BuiltData" FILE="D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene_BuiltData.uasset" SILENT=true
+[2021.03.16-01.56.49:040][947]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/SvenAltScene_BuiltData1E81667C4280FC07947152A757B66E0D.tmp' to 'D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene_BuiltData.uasset'
+[2021.03.16-01.56.49:056][947]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.16-01.56.49:056][947]LogContentValidation: Display: Validating World /Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene
+[2021.03.16-01.56.49:057][947]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Sven/Alt_Maps/SvenAltScene_BuiltData.SvenAltScene_BuiltData
+[2021.03.16-01.57.02:585][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sven/Alt_Maps/SvenAltScene" FILE="D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.16-01.57.02:591][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.03.16-01.57.02:751][681]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/SvenAltSceneE028BB04419CDF9C34705DB2228E2EB0.tmp' to 'D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene.umap'
+[2021.03.16-01.57.02:759][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sven/Alt_Maps/SvenAltScene_BuiltData" FILE="D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene_BuiltData.uasset" SILENT=true
+[2021.03.16-01.57.02:857][681]LogSavePackage: Moving 'D:/Sven/Sven/Sven/Saved/SvenAltScene_BuiltData60D362D544952C315C223BB46A42B2D1.tmp' to 'D:/Sven/Sven/Sven/Content/Sven/Alt_Maps/SvenAltScene_BuiltData.uasset'
+[2021.03.16-01.57.02:873][681]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.16-01.57.02:874][681]LogContentValidation: Display: Validating World /Game/Sven/Alt_Maps/SvenAltScene.SvenAltScene
+[2021.03.16-01.57.02:874][681]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Sven/Alt_Maps/SvenAltScene_BuiltData.SvenAltScene_BuiltData
